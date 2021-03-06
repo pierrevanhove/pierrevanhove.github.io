@@ -6,17 +6,20 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  - title : "Collaborators"
+    url: /collaborators/
+
+  - title: "Conferences"
+    url: /conferences/
+
+  - title: "Exposés grand public"
+    url: /grandpublic/
+
+  - title: "Livres - Books"
+    url: /livres/
+
+  - title: "Documents"
+    url: /Documents/
