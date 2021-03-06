@@ -263,7 +263,7 @@ defaults:
       share: true
       comments: true
    # _publictalks
-  - scope:
+   - scope:
       path: ""
       type: publictalk
     values:
