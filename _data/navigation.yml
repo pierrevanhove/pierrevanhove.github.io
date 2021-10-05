@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "News"
+    url: /year-archive/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
 
   - title: "CV"
     url: /cv/
@@ -16,10 +16,7 @@ main:
     url: /conferences/
 
   - title: "Exposés grand public"
-    url: /grandpublic/
+    url: /talks/
 
   - title: "Livres - Books"
     url: /livres/
-
-  - title: "Documents"
-    url: /Documents/

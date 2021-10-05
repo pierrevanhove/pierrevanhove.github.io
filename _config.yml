@@ -5,9 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+
+
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Pierre Vanhove"
 description              : &description "Pierre Vanhove website"
@@ -17,7 +20,7 @@ repository               : "pierrevanhove/pierrevanhove.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -29,7 +32,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -59,7 +62,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : "pierre.vanhove.754"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,39 +85,18 @@ analytics:
 author:
   name             : "Pierre Vanhove"
   avatar           : "pv.png"
-  bio              : 
-  location         : 
+  bio              : "Theoretical physicist" 
+  location         : "Institut de Physique Théorique"
   employer         : 
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
-  email            :
+  inspirehep       : "https://inspirehep.net/authors/984979?ui-citation-summary=true"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://inspirehep.net/authors/984979?ui-citation-summary=true"
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "https://www.facebook.com/pierre.vanhove.754"
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  facebook         : "pierre.vanhove.754"
+  github           : "pierrevanhove"
   orcid            : "https://orcid.org/0000-0001-5115-4788"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        : "https://fr.wikipedia.org/wiki/Pierre_Vanhove"
+  wikipedia        :  "Pierre_Vanhove"
 
 
 # Reading Files
@@ -146,6 +128,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets-OLD
 keep_files:
   - .git
   - .svn
@@ -184,9 +167,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+      #  talks:
+      #output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,10 +224,10 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-   # _collaborators
+  # _collaborators
   - scope:
       path: ""
       type: collaborators
@@ -253,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
- # _conferences
+  # _conferences
   - scope:
       path: ""
       type: conferences
@@ -262,17 +245,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   # _publictalks
-   - scope:
+  # _publictalks
+  - scope:
       path: ""
-      type: publictalk
+      type: talks
     values:
       layout: talk
       author_profile: true
       share: true
       comments: true
-   # _books
-    - scope:
+  # _books
+  - scope:
       path: ""
       type: publications
     values:
@@ -295,7 +278,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -305,6 +288,11 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

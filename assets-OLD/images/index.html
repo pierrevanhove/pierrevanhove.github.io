@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="fr-FR" >
+<head>
+    
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="format-detection" content="telephone=no">
+<title>Pavel Florensky – Les Imaginaires en géométrie &#8211; Zones Sensibles</title>
+<script type="text/javascript">var ajaxurl = "http://www.zones-sensibles.org/wp-admin/admin-ajax.php"</script><style id="critical-path-css" type='text/css'>body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-logo,.preloader-preview-area{top:50%;max-height:calc(50% - 20px);opacity:1}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0;position:relative}.ball-pulse>div,.ball-scale>div,.line-scale>div{margin:2px;display:inline-block}.ball-pulse>div{width:15px;height:15px;border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}@keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}.ball-scale-multiple>div,.line-scale>div{-webkit-animation-fill-mode:both;height:50px}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{animation-fill-mode:both;width:5px;border-radius:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}@keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;animation-fill-mode:both;margin:0;position:absolute;left:-30px;top:0;opacity:0;width:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2),.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Zones Sensibles &raquo; Flux" href="http://www.zones-sensibles.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Zones Sensibles &raquo; Flux des commentaires" href="http://www.zones-sensibles.org/comments/feed/" />
+
+<link rel="shortcut icon" href="http://www.zones-sensibles.org/wp-content/uploads/2014/05/favicon.png"  />
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "http://www.zones-sensibles.org/wp-admin/admin-ajax.php";PHP.wp_p_id = "1270";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/images",
+mk_theme_js_path = "http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/js",
+mk_theme_dir = "http://www.zones-sensibles.org/wp-content/themes/jupiter",
+mk_captcha_placeholder = "Enter Captcha",
+mk_captcha_invalid_txt = "Invalid. Try again.",
+mk_captcha_correct_txt = "Captcha correct.",
+mk_responsive_nav_width = 1020,
+mk_vertical_header_back = "Back",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1240,
+mk_ajax_search_option = "disable",
+mk_preloader_bg_color = "#ffffff",
+mk_accent_color = "#8b0000",
+mk_go_to_top =  "false",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#8b0000",
+mk_preloader_logo = "";
+var mk_header_parallax = false,
+mk_banner_parallax = false,
+mk_page_parallax = false,
+mk_footer_parallax = false,
+mk_body_parallax = false,
+mk_no_more_posts = "Fin des articles";
+</script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.zones-sensibles.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.zones-sensibles.org/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.zones-sensibles.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='theme-styles-css'  href='http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/min/core-styles.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-api-special-1-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='zl_mate_styles-css'  href='http://www.zones-sensibles.org/wp-content/plugins/zl_mate_hover/library/css/mate.hover.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='zl_font_awesome-css'  href='http://www.zones-sensibles.org/wp-content/plugins/zl_mate_hover/library/css/font-awesome.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.zones-sensibles.org/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=4.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='global-assets-css-css'  href='http://www.zones-sensibles.org/wp-content/uploads/mk_assets/components-production.min.css?ver=1614167379' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='http://www.zones-sensibles.org/wp-content/uploads/mk_assets/theme-options-production.css?ver=1614167379' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-style-css'  href='http://www.zones-sensibles.org/wp-content/themes/jupiter/style.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-dynamic-styles-css'  href='http://www.zones-sensibles.org/wp-content/themes/jupiter/custom.css?ver=5.6.2' type='text/css' media='all' />
+<style id='theme-dynamic-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .mk-header { background-color:#545454;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } .mk-header-bg { background-color:#ffffff;background-repeat:no-repeat;background-position:center bottom;background-attachment:fixed; } .mk-classic-nav-bg { background-color:#ffffff;background-repeat:no-repeat;background-position:center bottom;background-attachment:fixed; } #theme-page { background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } #mk-footer { background-color:#1a1a1a; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:; } .page-title { font-size:34px; color:#ffffff; text-transform:none; font-weight:inherit; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:#ffffff; font-size:14px; text-transform:none; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:61px; } @font-face { font-family:'star'; src:url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; } #padding-3 { height:10px; } #padding-4 { height:10px; } #padding-5 { height:10px; } #padding-6 { height:10px; } #padding-7 { height:10px; } #text-block-9 { margin-bottom:0px; text-align:left; } #box-8 .box-holder{ background-color:#ffffff; } #box-8{ margin-bottom:10px; } #box-8 .box-holder{ min-height:100px; padding:0px 20px; } #box-8 .box-holder:hover{ background-color:; } #text-block-11 { margin-bottom:0px; text-align:left; } #box-10 .box-holder{ background-color:#ffffff; } #box-10{ margin-bottom:10px; } #box-10 .box-holder{ min-height:100px; padding:10px 10px; } #box-10 .box-holder:hover{ background-color:; } .full-width-2 { min-height:100px; margin-bottom:0px; } .full-width-2 .page-section-content { padding:20px 0 10px; } #background-layer--2 { ; background-position:left top; background-repeat:no-repeat; position:fixed;; } #background-layer--2 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; } #text-block-12 { margin-bottom:0px; text-align:left; } .main-navigation-ul > li:hover > a, .main-navigation-ul > li.current-menu-item > a, .main-navigation-ul > li.current-menu-ancestor > a { border-color:transparent !important; } .test { opacity:0.8; margin-top:40px; } .colonne { padding:20px; } .single-social-section .mk-love-holder, .single-social-section .blog-modern-comment .single-social-section portfolio-social-share { display:none; } .mk-image-overlay { display:none; } #sub-footer * { } .mk-text-block p { margin-bottom:0; line-height:20px; } .policepetite { font-size:12px!important; line-height:20px; } .acheter { padding-top:10px; } #sub-footer * { font-weight:bold; color:#000000!important; text-shadow:none!important; opacity:1!important; } .mk-footer-copyright { font-weight:normal!important; } .mk-icon-chevron-up{ display:none!important; } .mk-go-top.on { display:none!important; }
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.zones-sensibles.org/wp-content/plugins/jetpack/css/jetpack.css?ver=9.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6' id='tp-tools-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6' id='revmin-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/zl_mate_hover/library/js/jquery.easing.1.3.js?ver=5.6.2' id='zl_mate_easing-js'></script>
+<script type='text/javascript' id='zl_mate_script_custom-js-extra'>
+/* <![CDATA[ */
+var zl_mate_obj_data = [{"id":"1","settings":{"name":"Livre 1","ov_bg":"#000","ov_opacity":"0.7","ov_easing":"linear","ov_speed_in":"500","ov_speed_out":"500","ov_style":"double","rolling_position":"top","dbl_position":"vertical","f_speed_in0":"200","f_speed_out0":"200","f_speed_in1":"800","f_speed_out1":"800","f_speed_in2":"300","f_speed_out2":"300","f_speed_in3":"800","f_speed_out3":"800","pop0_h":"50px","pop0_w":"180px","pop0_font":"11px","pop0_font_col":"#000","pop0_bg":"#FFFFFF","pop0_speed_in":"700","pop0_speed_out":"500","pop0_radius":"0px","pop0_easing":"swing","pop0_opacity":"0.8","pop0_img":"","pop1_h":"40px","pop1_w":"40px","pop1_font":"14px","pop1_font_col":"#000000","pop1_bg":"#fec901","pop1_speed_in":"800","pop1_speed_out":"800","pop1_radius":"0px","pop1_easing":"swing","pop1_opacity":"1","pop1_img":"","pops_talign":"center","pops_padding":"20px","pop_line":"","position":"y","between":"10","id":"1"}}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/zl_mate_hover/library/js/mate.hover.custom.js?ver=5.6.2' id='zl_mate_script_custom-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/zl_mate_hover/library/js/jquery.mate-hover.1-3.js?ver=5.6.2' id='zl_mate_script_base-js'></script>
+<link rel="https://api.w.org/" href="http://www.zones-sensibles.org/wp-json/" /><link rel="alternate" type="application/json" href="http://www.zones-sensibles.org/wp-json/wp/v2/pages/1270" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.zones-sensibles.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.zones-sensibles.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.2" />
+<link rel="canonical" href="http://www.zones-sensibles.org/pavel-florensky-les-imaginaires-en-geometrie/" />
+<link rel='shortlink' href='http://www.zones-sensibles.org/?p=1270' />
+<link rel="alternate" type="application/json+oembed" href="http://www.zones-sensibles.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.zones-sensibles.org%2Fpavel-florensky-les-imaginaires-en-geometrie%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.zones-sensibles.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.zones-sensibles.org%2Fpavel-florensky-les-imaginaires-en-geometrie%2F&#038;format=xml" />
+<!-- Analytics by WP-Statistics v13.0.4 - https://wp-statistics.com/ -->
+<style type='text/css'>img#wpstats{display:none}</style><script> var isTest = false; </script>
+<style id="js-media-query-css">.mk-event-countdown-ul:media( max-width: 750px ) li{width:90%;display:block;margin:0 auto 15px}.mk-process-steps:media( max-width: 960px ) ul:before{display:none!important}.mk-process-steps:media( max-width: 960px ) li{margin-bottom:30px!important;width:100%!important;text-align:center}</style><meta itemprop="author" content="" /><meta itemprop="datePublished" content="24 août 2016" /><meta itemprop="dateModified" content="2 février 2018" /><meta itemprop="publisher" content="Zones Sensibles" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.zones-sensibles.org/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.zones-sensibles.org/wp-content/plugins/js_composer_theme/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<meta name="generator" content="Jupiter 5.3" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="page-template-default page page-id-1270 loading wpb-js-composer js-comp-ver-4.12.2 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='60'
+                data-sticky-height='40'
+                data-responsive-height='90'
+                data-transparent-skin=''
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-2 sticky-style-fixed mk-background-stretch full-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-2" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-haut" class="main-navigation-ul"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/news/">Accueil</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/livres/">Catalogue</a></li>
+<li id="menu-item-1247" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/onstage/">On stage &#038; on air</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/manifesto/">Manifesto</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/liens/">Liens</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/contacts/">Contact</a></li>
+</ul></nav>                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>        <div class=" header-logo fit-logo-img add-header-height  ">
+
+	    <a href="http://www.zones-sensibles.org/" title="Zones Sensibles">
+	    
+			             <img class="mk-desktop-logo dark-logo" title="Pactum serva" alt="Pactum serva" src="http://www.zones-sensibles.org/wp-content/uploads/2014/05/logo-web-ok.png" />
+			    
+			    			    
+			    			    
+			    	    </a>
+    </div>
+
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-haut-container"><ul id="menu-haut-1" class="mk-responsive-nav"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/news/">Accueil</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/livres/">Catalogue</a></li>
+<li id="menu-item-1247" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/onstage/">On stage &#038; on air</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/manifesto/">Manifesto</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/liens/">Liens</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://www.zones-sensibles.org/contacts/">Contact</a></li>
+</ul></nav>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+                
+    </header>
+        
+        <div id="theme-page" class="master-holder  clearfix" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+            <div class="mk-main-wrapper-holder">
+                <div id="mk-page-id-1270" class="theme-page-wrapper mk-main-wrapper mk-grid full-layout no-padding ">
+                      <div class="theme-content no-padding" itemprop="mainEntityOfPage">
+                            
+
+<div class="clearboth"></div>
+	</div> 		</div> 			</div> 
+
+				
+<div class="mk-page-section-wrapper">
+    <div id="page-section-2" class="mk-page-section self-hosted  full-width-2 js-el js-master-row    portf center-y" data-mk-component="FullHeight" data-fullHeight-config='{"min": 100}'   data-intro-effect="false">
+
+        
+            
+            <div class="mk-page-section-inner">
+                
+
+
+
+<div class="mk-video-color-mask"></div>
+
+                
+                            </div>
+            
+            
+        <div class="page-section-content vc_row-fluid mk-grid">
+            <div class="mk-padding-wrapper">
+<div style="" class="vc_col-sm-3 wpb_column column_container  _ height-full">
+	<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 559px;"><div class="mk-image-inner "><img class="lightbox-true" alt="imaginaire_2" title="imaginaire_2" width="559" height="709" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/imaginaire_2-1.jpg" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/imaginaire_2-1.jpg" alt="imaginaire_2" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a4d81" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div>
+<div id="padding-3" class="mk-padding-divider   clearfix"></div>
+
+<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 1772px;"><div class="mk-image-inner "><img class="lightbox-true" alt="image_2" title="image_2" width="1772" height="1240" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_2.png" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_2.png" alt="image_2" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a59eb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div>
+<div id="padding-4" class="mk-padding-divider   clearfix"></div>
+
+<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 1771px;"><div class="mk-image-inner "><img class="lightbox-true" alt="image_3" title="image_3" width="1771" height="1240" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_3.png" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_3.png" alt="image_3" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a66e5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div>
+<div id="padding-5" class="mk-padding-divider   clearfix"></div>
+
+<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 1771px;"><div class="mk-image-inner "><img class="lightbox-true" alt="image_1" title="image_1" width="1771" height="1240" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_1.png" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/image_1.png" alt="image_1" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a7790" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div>
+<div id="padding-6" class="mk-padding-divider   clearfix"></div>
+
+<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 915px;"><div class="mk-image-inner "><img class="lightbox-true" alt="9782930601243_0" title="9782930601243_0" width="915" height="1280" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/9782930601243_0.jpg" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/9782930601243_0.jpg" alt="9782930601243_0" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a8143" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div>
+<div id="padding-7" class="mk-padding-divider   clearfix"></div>
+
+<div class="mk-image  lightbox-enabled align-left single_line-frame inside-image " style="margin-bottom:10px"><div class="mk-image-holder" style="max-width: 1772px;"><div class="mk-image-inner "><img class="lightbox-true" alt="92-93" title="92-93" width="1772" height="1240" src="http://www.zones-sensibles.org/wp-content/uploads/2016/08/92-93.png" /><div class="mk-image-overlay"></div><a href="http://www.zones-sensibles.org/wp-content/uploads/2016/08/92-93.png" alt="92-93" data-fancybox-group="image-shortcode-" title="" class="mk-lightbox  mk-image-lightbox"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-plus-circle" data-cacheid="icon-6045e762a8d88" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M240 24c115.2 0 209.6 94.4 209.6 209.6s-94.4 209.6-209.6 209.6-209.6-94.4-209.6-209.6 94.4-209.6 209.6-209.6zm0-30.4c-132.8 0-240 107.2-240 240s107.2 240 240 240 240-107.2 240-240-107.2-240-240-240zm80 256h-160c-9.6 0-16-6.4-16-16s6.4-16 16-16h160c9.6 0 16 6.4 16 16s-6.4 16-16 16zm-80 80c-9.6 0-16-6.4-16-16v-160c0-9.6 6.4-16 16-16s16 6.4 16 16v160c0 9.6-6.4 16-16 16z"/></svg></a></div></div><div class="clearboth"></div></div></div>
+
+<div style="" class="vc_col-sm-6 wpb_column column_container  _ height-full">
+	
+<div class="mk-custom-box hover-effect-image" id="box-8">
+	<div class="box-holder">
+<div id="text-block-9" class="mk-text-block   ">
+
+	
+	<p><span style="color: #000000; font-size: 12pt;">Pavel Florensky</span><br><span style="color: #000000; font-size: 12pt;"><strong>Les Imaginaires en géométrie</strong></span><br><span style="color: #000000; font-size: 12pt;"><strong>Extension du domaine des images géométriques à deux dimensions</strong></span><br><span style="color: #000000; font-size: 12pt;"><strong>Essai d’une nouvelle concrétisation des imaginaires</strong></span></p>
+<p> </p>
+<p><span style="color: #000000;">128 p. ISBN 978 293 0601 24 3. 16 euros.<br></span><span style="color: #000000;">Traduit du russe par Françoise Lhoest et Pierre Vanhove</span> <span style="color: #000000;">à partir d’une traduction provisoire de Sophia Ivanovna </span> <span style="color: #000000;">Ogneva-Kireevskaya révisée par Sœur Svetlana Marchal.</span><span style="color: #000000;"><br>
+Préface de Cédric Villani. Introduction de Pierre Vanhove.<br>
+Recomposition graphique de la couverture par Laurent Bourcellier. </span><br><span style="color: #000000;">Novembre 2016.</span></p>
+<p style="text-align: justify;"><span style="color: #ffffff;">bla</span></p>
+<div class="page" title="Page 12">
+<div class="layoutArea">
+<div class="column">
+<p><span style="color: #000000; font-size: 11pt;">« Que veut dire au fond la vitesse limite <i>c</i> = 3·1010 cm /seconde ? Cela ne veut absolument pas dire que des vitesses égales ou supérieures à <i>c</i> soient impossibles, mais cela signifie qu’apparaîtraient avec elles de toutes nouvelles conditions de vie que nous ne pouvons pas encore nous représenter visuellement, et peut-être, des formes transcendantes à notre expérience terrestre kantienne. Mais cela ne veut absolument pas dire que de telles conditions soient impossibles et peut-être, avec l’extension du domaine de l’expérience, seront-elles représentables. Autrement dit, la vie du monde, avec la vitesse égale à <i>c</i> et a fortiori supérieure à <i>c</i>, est qualitativement différente de celle qui s’observe avec des vitesses inférieures à <i>c</i>, et la transition entre les domaines de cette différence qualitative n’est pensable que comme discontinue. »</span></p>
+<p style="text-align: justify;"><span style="color: #ffffff;">ddf</span></p>
+<p><span style="color: #000000; font-size: 11pt;">Pavel Florensky (1882-1937), théologien orthodoxe russe, philosophe et mathématicien, travaille à partir des années 1920 sur la physique et l’électrodynamique, publiant son ouvrage principal de science pure, <em>Les Imaginaires en géométrie</em>, texte écrit en 1902 alors qu’il étudiait les mathématiques (mais auquel il a rajouté un neuvième et dernier paragraphe, fondamental, à l’occasion du sixième centenaire de la mort de Dante) et consacré à l’interprétation géométrique de la théorie de la relativité d’Albert Einstein. En « homme de la Renaissance », Florensky s’est intéressé à un grand nombre de domaines scientifiques. Nombreux sont ceux qui l’ont comparé à Léonard de Vinci, mais la motivation de Florensky n’était pas un simple désir d’apprendre, mais d’utiliser toutes les ressources des sciences pour bâtir un monde unifié, où science et religion, phénomènes et idées platoniciennes, spirituel et rationnel coexistent harmonieusement. Il espérait démontrer que les découvertes scientifiques modernes n’avaient rien d’incompatible avec les dogmes de l’Église.</span></p>
+<p style="text-align: justify;"><span style="color: #ffffff;">bla</span></p>
+<p><span style="color: #000000; font-size: 11pt;">Cet ouvrage ne doit pas être lu comme un traité de mathématique ou de physique, mais comme un texte idéologique mettant en œuvre la pensée transverse et globalisante de Florensky. Le but n’est pas de développer la théorie de la relativité d’Einstein, mais d’intégrer ces notions scientifiques dans son système de pensée. Cet ouvrage jette des ponts entre différents domaines dans la but de concilier une approche scientifique et spirituelle. Au-delà des mathématiques, ce livre est aussi un ouvrage de philosophie : Florensky considère par exemple que les idées platoniciennes existent dans un espace inversé par rapport au nôtre, ou un « espace imaginaire ». Comme les mondes physique et spirituel ne sont pas indépendants, mais sont inséparables, deux plans d’une même surface, on passe d’un monde à l’autre par un retournement intérieur. Florensky utilise ainsi les imaginaires pour argumenter, dans le chapitre final écrit en 1922, que Dante a anticipé des aspects de la géométrie elliptique non-euclidienne dans la <em>Divine Comédie</em>. Comme l’écrit Cédric Villani dans la préface à cet ouvrage, « saluons le courage d’une pensée ardente qui refusa d’être une brique sagement rangée dans un édifice, si magnifique soit-il ». Cet ouvrage paraît pour la première fois en français, dans une traduction à huit mains qui aura demandé presque un siècle pour être achevée. </span></p>
+</div>
+</div>
+</div>
+<p><span style="color: #ffffff;">ddf</span><br><span style="color: #000000; font-size: 11pt;">« … il ne fait pas de doute que Florensky aurait pu mener, en un autre temps ou un autre lieu, une grande carrière scientifique. Mais la rencontre entre l’un des esprits les plus originaux de son époque et l’un des régimes politiques les plus arbitrairement absurdes de tous les temps fut des plus violentes. Florensky n’allait pas survivre à cette période terrible où chacun craignait pour sa vie, où les académiciens se dénonçaient les uns les autres, et où même le plus brillant des physiciens russes, Lev Landau, connut la prison.» Cédric Villani, extrait de la <em>Préface</em>.</span></p>
+<p style="text-align: justify;"><span style="color: #ffffff;">ddf</span></p>
+<p><span style="color: #000000; font-size: 11pt;">« <em>Les Imaginaires</em> permettent àFlorensky de construire un modèle unifiant le monde physique et spirituel grâce à des constructions qui “ne sont pas des analogies ou des comparaisons mais des indications de similarités essentielles [qui] ne doivent pas être acceptées ou rejetées selon des buts personnels mais des choses dont la légitimité est déterminée par des prémisses correctement formulées ; en résumé : des schémas mentaux nécessaires”. Les structures mathématiques jouent un rôle fondamental dans son explication de l’unification, par l’énergie, du monde physique et de celui des idées platoniciennes, la clef de cette unification résidant dans les nombres imaginaires. Selon cette approche, mathématique et philosophie sont identiques. » Pierre Vanhove, extrait de l’<em>Introduction</em>.</span></p>
+<p> </p>
+<p><span style="color: #000000; font-size: 11pt;"><strong>Sommaire<br></strong></span><span style="color: #000000;">Préface<br></span><span style="color: #000000;">Introduction<br></span><span style="color: #000000;">Chronologie<br></span><i style="color: #000000;">Les Imaginaires en géométrie</i><span style="color: #000000;"><br></span><i style="color: #000000;">Explications à la couverture du livre<br></i><i style="color: #000000;">La réaction des contemporains </i><i style="color: #000000;">aux </i><span style="color: #000000;">Imaginaires en géométrie<br></span><span style="color: #000000;">Glossaire<br></span><span style="color: #000000;">Bibliographie<br></span><span style="color: #000000;">Index nominum</span></p>
+<p> </p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong>Pavel Florensky</strong> (1882-1937) était un théologien orthodoxe russe, philosophe et mathématicien. <strong>Pierre Vanhove</strong> est physicien théoricien à l’Institut des haute sétudes scientifiques. <strong>Cédric Villani</strong> est directeur de l’Institut Henri Poincaré.</span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+		<div class="clearfix"></div>
+	</div>
+</div> </div>
+
+<div style="" class="vc_col-sm-3 wpb_column column_container  _ height-full">
+	
+<div class="mk-custom-box hover-effect-image" id="box-10">
+	<div class="box-holder">
+<div id="text-block-11" class="mk-text-block   ">
+
+	
+	<p><span style="color: #000000; font-size: 12pt;"><strong><a style="color: #000000;" href="http://www.zones-sensibles.org/wp-content/uploads/2016/10/preface_web.pdf" target="_blank">Préface</a> (PDF)</strong></span></p>
+<p><span style="color: #000000; font-size: 12pt;"><strong><a style="color: #000000;" href="http://www.zones-sensibles.org/wp-content/uploads/2016/10/introduction_web.pdf" target="_blank">Introduction</a> </strong><strong>(PDF)</strong></span></p>
+<p><span style="color: #000000; font-size: 12pt;"><strong><a style="color: #000000;" href="http://www.zones-sensibles.org/wp-content/uploads/2016/10/explications_web.pdf" target="_blank">Explications à la couverture</a> (PDF)</strong></span></p>
+<p><span style="color: #000000; font-size: 12pt;"><strong><a style="color: #000000;" href="http://www.zones-sensibles.org/wp-content/uploads/2016/10/extrait_web.pdf" target="_blank">Extraits</a> (PDF)</strong></span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+		<div class="clearfix"></div>
+	</div>
+</div> </div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+            
+            
+            
+        
+        <div class="clearboth"></div>
+    </div>
+</div>
+
+<div class="mk-main-wrapper-holder">
+	<div class="theme-page-wrapper no-padding full-layout mk-grid vc_row-fluid">
+		<div class="theme-content no-padding">
+
+			
+
+
+<div class="wpb_row vc_row  mk-fullwidth-false  attched-false    vc_row-fluid  js-master-row ">
+		
+			
+<div style="" class="vc_col-sm-12 wpb_column column_container  _ height-full">
+	
+<div id="text-block-12" class="mk-text-block   ">
+
+	
+	
+	<div class="clearboth"></div>
+</div>
+</div>
+	</div>
+
+
+		<div class="clearboth"></div>
+		                      
+                      <div class="clearboth"></div>
+                                            </div>
+                                <div class="clearboth"></div>
+                
+                </div>
+            </div>
+
+
+                
+        </div>          
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class=" mk-footer-disable" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+        <div id="sub-footer">
+	<div class=" fullwidth-footer">
+		
+    	<span class="mk-footer-copyright">« Il n’y a aucun sens à partager des choses si l’on ne commence pas par communiser l’aptitude à voir »</span>
+    	<nav id="mk-footer-navigation" class="footer_menu"><ul id="menu-footer" class="menu"><li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a target="_blank" rel="noopener">Pactum serva</a></li>
+</ul></nav>	</div>
+	<div class="clearboth"></div>
+</div>
+</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+</div>
+
+
+
+
+<footer id="mk_page_footer">
+    <script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/js'
+      };
+    </script><script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=5.3' id='smoothscroll-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-includes/js/comment-reply.min.js?ver=5.6.2' id='comment-reply-js'></script>
+<script type='text/javascript' id='theme-scripts-js-extra'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"http:\/\/www.zones-sensibles.org\/wp-admin\/admin-ajax.php","redirecturl":"http:\/\/www.zones-sensibles.org\/pavel-florensky-les-imaginaires-en-geometrie\/","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/themes/jupiter/assets/js/core-scripts.js?ver=5.3' id='theme-scripts-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=4.12.2' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='http://www.zones-sensibles.org/wp-content/uploads/mk_assets/components-production.min.js?ver=1614167379' id='global-assets-js-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202110.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.2.1',blog:'180185512',post:'1270',tz:'1',srv:'www.zones-sensibles.org'} ]);
+	_stq.push([ 'clickTrackerInit', '180185512', '1270' ]);
+</script>
+		<script type="text/javascript">
+				</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>    <script>
+        // Run this very early after DOM is ready
+        (function ($) {
+            // Prevent browser native behaviour of jumping to anchor
+            // while preserving support for current links (shared across net or internally on page)
+            var loc = window.location,
+                hash = loc.hash;
+
+            // Detect hashlink and change it's name with !loading appendix
+            if(hash.length && hash.substring(1).length) {
+                var $topLevelSections = $('.vc_row, .mk-main-wrapper-holder, .mk-page-section, #comments');
+                var $section = $topLevelSections.filter( '#' + hash.substring(1) );
+                // We smooth scroll only to page section and rows where we define our anchors.
+                // This should prevent conflict with third party plugins relying on hash
+                if( ! $section.length )  return;
+                // Mutate hash for some good reason - crazy jumps of browser. We want really smooth scroll on load
+                // Discard loading state if it already exists in url (multiple refresh)
+                hash = hash.replace( '!loading', '' );
+                var newUrl = hash + '!loading';
+                loc.hash = newUrl;
+            }
+        }(jQuery));
+    </script>
+    
+
+    
+</footer>  
+</body>
+</html>
