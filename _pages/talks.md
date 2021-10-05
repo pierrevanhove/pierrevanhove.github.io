@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-{:center: style="text-align: center"}
-<h2>Conférences de physique dans les lycées et exposés grands publics</h2>
-{:center}
+
+Conférences de physique dans les lycées et exposés grands publics
+====
 
 
 * [Au bout de la corde ... les deux infinis](/files/dechiffreurs-douai.pdf)
