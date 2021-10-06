@@ -11,7 +11,7 @@ redirect_from:
 
 
 Career
-------
+====
 * 2017 - now : [associate member](https://ms.hse.ru/en/associate_members) of  [International laboratory for Mirror Symmetry and Automorphic Forms](https://ms.hse.ru/en/) National Research University Higher School of Economics  Moscow, Russia ([русский](https://ms.hse.ru/associate_members/))
 * 2008 - 2015 : Member of the [Institut des Hautes Études
 Scientifiques](http://www.ihes.fr/)
@@ -78,22 +78,3 @@ Married, two children.
    *  Volley-ball player 
    * Horse riding
    * Downhill Ski
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
