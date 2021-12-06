@@ -21,8 +21,8 @@ redirect_from:
 
 * 2021: [Gravitational scattering, inspiral, and radiation](https://www.ggi.infn.it/showevent.pl?id=363) at the Galileo Galilei Institute
 * 2020: [Paris Winter Workshop: The Infrared in QFT](https://indico.in2p3.fr/event/20557/)
-* 2019 : [Workshop on multi-loop calculations (methods and applications)](https://multi-loop-2019.sciencesconf.org/), Paris, France
-* 2018 : [Cargèse school: Quantum Gravity, Strings and Fields](https://www.lpthe.jussieu.fr/cargese/2018/index.shtml)
+* 2019: [Workshop on multi-loop calculations (methods and applications)](https://multi-loop-2019.sciencesconf.org/), Paris, France
+* 2018: [Cargèse school: Quantum Gravity, Strings and Fields](https://www.lpthe.jussieu.fr/cargese/2018/index.shtml)
 * 2017: [Qu'est-ce que la gravité?](http://phbrax.wixsite.com/gravite)  Orme des merisiers, CEA-Saclay
 * 2017: [String Theory and Scattering Amplitudes](http://scgp.stonybrook.edu/archives/18325), SCGP, Stony Brook
 * 2016: [Random Geometry and Physics, Second French-Russian Scientific conference](http://www.rivasseau.com/RGPHomepage.html), IHP, Paris
@@ -41,7 +41,7 @@ redirect_from:
 * 2007: [Les Houches](https://www.houches-school-physics.com/) summer school [String theory and the Real World: From particle physics to astrophysics](http://www.lpthe.jussieu.fr/houches07/index.html)
 * 2006: [Cargèse school:  Strings and Branes : The present paradigm for gauge interactions and cosmology](http://string.lpthe.jussieu.fr/cargese/2006/)
 * 2005: Workshop on [Pure Spinors in Superstring theory](http://ipht.cea.fr/Images/Pisp/pvanhove/PureSpinors/index.html) at [IHÉS](http://www.ihes.fr/)
-* 2004 : [String 2004](http://strings04.lpthe.jussieu.fr/) conference at Collège de France
+* 2004: [String 2004](http://strings04.lpthe.jussieu.fr/) conference at Collège de France
 * 2003: [Les Houches](https://www.houches-school-physics.com/) Winter School [Frontiers in Number Theory, Physics and Geometry](http://www.ihes.fr/~vanhove/Houches2003/index.html)
 
 <a id="seminars">Research Seminars</a>
