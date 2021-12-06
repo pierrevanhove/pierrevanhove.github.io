@@ -20,7 +20,7 @@ redirect_from:
 ---
 
 * 2021: [Gravitational scattering, inspiral, and radiation](https://www.ggi.infn.it/showevent.pl?id=363) at the Galileo Galilei Institute
-* 2020: [Paris Winter Workshop: The Infrared in QFParis Winter Workshop: The Infrared in QFT](https://indico.in2p3.fr/event/20557/)
+* 2020: [Paris Winter Workshop: The Infrared in QFT](https://indico.in2p3.fr/event/20557/)
 * 2019 : [Workshop on multi-loop calculations (methods and applications)](https://multi-loop-2019.sciencesconf.org/), Paris, France
 * 2018 : [Cargèse school: Quantum Gravity, Strings and Fields](https://www.lpthe.jussieu.fr/cargese/2018/index.shtml)
 * 2017: [Qu'est-ce que la gravité?](http://phbrax.wixsite.com/gravite)  Orme des merisiers, CEA-Saclay
