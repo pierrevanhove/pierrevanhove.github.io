@@ -13,8 +13,8 @@ author_profile: true
 Articles that are not accesible online from inSPIRE :
 -----------------------------------------------------
 
-* [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf/) [to appear in the PHILOSOPHICAL TRANSACTIONS
-OF THE ROYAL SOCIETY A]
+* [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf) [to appear in the PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A]
+* [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf)  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
 * [The physics of quantum gravity](/files/CRAS2014.pdf/) [Comptes Rendus Physique Volume 15, Issue 6, June–July 2014, Pages 547-552](https://www.sciencedirect.com/science/article/pii/S1631070514000474)
 * [Monodromies and the structure of gauge and gravity amplitudes](/files/ichep2010.pdf)
 Contribution to the proceedings of the 35th ICHEP conference, 22-28 July 2010, Paris.

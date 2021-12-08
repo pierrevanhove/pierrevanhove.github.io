@@ -22,7 +22,7 @@ author_profile: true
 * 2017 : Hao Fu (master 1 student)
 * 2013 - 2016 :  [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=ea+plante%2C+ludovic&of=hb&action_search=Recherche&sf=earliestdate&so=d&rm=&rg=25&sc=0) [Ludovic Planté](https://fr.linkedin.com/in/ludovic-plant%C3%A9-2bb77469) (PhD student) 
 * 2013 : Simon Dumas Primbault (master student project)
-* 2010 - 2014 : [papers](http://inspirehep.net/search?ln=fr&p=a+tourkine%2C+p&of=hb&action_search=Recherche) [Piotr Tourkine](https://scholar.google.com/citations?user=O-n5g0kAAAAJ&hl=en) (PhD student)  
+* 2010 - 2014 : [papers](http://inspirehep.net/search?ln=fr&p=a+tourkine%2C+p&of=hb&action_search=Recherche) [Piotr Tourkine](https://lapth.cnrs.fr/pg-nomin/tourkine/) (PhD student)  
 * 2010: [Valentin Assassi](https://www.linkedin.com/in/valentin-assassi) (master student project)
 * 2010: [papers](http://inspirehep.net/searc$h?ln=fr&p=a+tourkine%2C+p&of=hb&action_search=Recherche) [Piotr Tourkine](https://scholar.google.com/citations?user=O-n5g0kAAAAJ&hl=en) (master student project) 
 * 2009: Quentin Pierre (master student project)
