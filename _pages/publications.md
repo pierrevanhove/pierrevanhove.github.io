@@ -14,14 +14,14 @@ Articles that are not accesible online from inSPIRE :
 -----------------------------------------------------
 
 * [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf) [to appear in the PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A]
-* [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf)  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
-* [The physics of quantum gravity](/files/CRAS2014.pdf/) [Comptes Rendus Physique Volume 15, Issue 6, June–July 2014, Pages 547-552](https://www.sciencedirect.com/science/article/pii/S1631070514000474)
+* [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
+* [The physics of quantum gravity](/files/CRAS2014.pdf/)  published as [Comptes Rendus Physique Volume 15, Issue 6, June–July 2014, Pages 547-552](https://www.sciencedirect.com/science/article/pii/S1631070514000474)
 * [Monodromies and the structure of gauge and gravity amplitudes](/files/ichep2010.pdf)
-Contribution to the proceedings of the 35th ICHEP conference, 22-28 July 2010, Paris.
+Contribution to the proceedings of the 35th [ICHEP conference](https://inspirehep.net/conferences/980692?ui-citation-summary=true), 22-28 July 2010, Paris.
 * [Simplicity of Amplitudes in Gravity and Yang-Mills Theories](/files/CLAQ2009.pdf)
-contributions to the proceedings of the Workshop on Continuum and Lattice Approaches to Quantum Gravity written with N.E.J Bjerrum-Bohr  to various talks given structure of amplitudes in N=8 supergravity and the no-triangle property.
+contributions to the proceedings of the [Workshop on Continuum and Lattice Approaches to Quantum Gravity](https://inspirehep.net/conferences/979594?ui-citation-summary=true) written with N.E.J Bjerrum-Bohr 
 * [Localized (super)gravity](/files/localisation.pdf)
-proceeding contribution written with I. Antoniadis on the topic of localisation of gravity in string theory
+[proceeding contributions](https://inspirehep.net/literature/637878) written with I. Antoniadis on the topic of localisation of gravity in string theory
 
 
 Lectures notes and Reviews:
