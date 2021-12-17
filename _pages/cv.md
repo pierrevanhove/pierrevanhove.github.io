@@ -29,7 +29,7 @@ France
 
 Distinctions
 ====
-* 2021 : Directeur de recherche CEA
+* 2021 : Directeur de recherche CEA 
 * 2020 - 2021 : Scientific Associate CERN theory division
 * [Scientific associate at Niels Bohr institute Copenhague](https://nbia.nbi.ku.dk/members/adjuncts-and-associates/)
 * 2015: [French Government Oversea Fellow](https://www.chu.cam.ac.uk/about/master-fellows/fellowship-categories/french-government-fellowships/) of [Churchill College](https://www.chu.cam.ac.uk/), Cambridge, UK
