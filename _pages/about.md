@@ -14,7 +14,7 @@ redirect_from:
 
 Current activities:
 ====
-* [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html)
+* [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html#nexttalk)
 
 
 Research interests:
