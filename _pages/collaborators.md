@@ -50,6 +50,7 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+grassi) Pietro Antonio Grassi
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+green) Michael B. Green
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+gurdogan) Omer Gürdoğan
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+heckelbacher) Till Heckelbacher
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+holstein) Barry R. Holstein
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+howe) Paul Howe
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+gutperle) Michael Gutperle
@@ -66,7 +67,9 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+vanhove&of=hb&action_search=Recherche) Marios Petropoulos
 * [papers](http://inspirehep.net/search?ln=fr&p=a+plante+and+vanhove&of=hb&action_search=Recherche) Ludovic Planté
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+russo) Jorge Russo
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+sachs) Ivo Sachs
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+shatashvili) Samson Shatashvili
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+skvortsov) Evgeny Skvortsov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+sondergaard) Thomas Søndergaard
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+stelle) Kellogg Stelle
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+sugino) Fumihiko Sugino
