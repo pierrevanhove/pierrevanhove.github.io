@@ -10,11 +10,12 @@ author_profile: true
  * My articles on [inSPIRE HEP](https://inspirehep.net/authors/984979?ui-citation-summary=true)
  * My articles on [Google Scholar profile](https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ)
 
-Articles that are not accesible online from inSPIRE :
+Articles that are not accesible online :
 -----------------------------------------------------
 
 * [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf) [to appear in the PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A]
 * [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
+* [Symétries de dualité et formes automorphes en théorie des cordes](/files/lecon-mathematiques-bordeaux-texte-mars2017.pdf) Texte à paraitre dans le volume 6 des [Leçons de mathématique et d'informatique d'Aujourdhui](https://ed-mi.u-bordeaux.fr/L-Ecole-doctorale/Lecons-de-Mathematiques-et-d-Informatique-d-Aujourd-hui)
 * [The physics of quantum gravity](/files/CRAS2014.pdf/)  published as [Comptes Rendus Physique Volume 15, Issue 6, June–July 2014, Pages 547-552](https://www.sciencedirect.com/science/article/pii/S1631070514000474)
 * [Monodromies and the structure of gauge and gravity amplitudes](/files/ichep2010.pdf)
 Contribution to the proceedings of the 35th [ICHEP conference](https://inspirehep.net/conferences/980692?ui-citation-summary=true), 22-28 July 2010, Paris.
@@ -26,7 +27,7 @@ contributions to the proceedings of the [Workshop on Continuum and Lattice Appro
 
 Lectures notes and Reviews:
 ---------------------------
-* [Symétries de dualité et formes automorphes en théorie des cordes](/files/lecon-mathematiques-bordeaux-mars2017.pdf) Leçon de mathématique et d'informatique, donnée à l'université de Bordeaux le 9 mars 2017
+* [Symétries de dualité et formes automorphes en théorie des cordes](/files/lecon-mathematiques-bordeaux-mars2017.pdf) Leçon de mathématique et d'informatique d'Aujourd'hui donnée à l'université de Bordeaux le 9 mars 2017. Vidéos: [Partie 1/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordespartie-1) - [Partie 2/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-2) -  [Partie 3/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-3) -  [Partie 4/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-4) -  [Partie 5/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-5) 
 * [A short introduction to String theory](/files/short-introduction.pdf)  A short introduction to String theory 
 Notes of a lecture given at the school 1st Summer School of ITN: Unification in the LHC Era, 4 - 15 Septembre 2011, Corfu, Greece.
 * [Non-renormalisation theorems in Superstring and Supergravity Theories](/files/these-habilitation-2007.pdf)
