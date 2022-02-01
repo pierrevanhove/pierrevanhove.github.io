@@ -11,7 +11,7 @@ author_profile: true
  * My articles on [Google Scholar profile](https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ)
 
 Articles that are not accesible online :
------------------------------------------------------
+----------------------------------------
 
 * [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf) [to appear in the PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A]
 * [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
