@@ -48,6 +48,3 @@ Bibliographical work on the quantum Hall effect done with Frank Ferrari.
 Report on an experimental work on the chaotic behaviour of fibre laser. With an analysis of the topological nature of the attractor with knot theory. Work done at the LSE of Lille in the laboratory of Prof. P. Glorieux.
 Related to this work Marc Lefranc has written a book The Topology of Chaos: Alice in Stretch and Squeezeland where they detail the "[t]opological analysis is about extracting from chaotic data the topological signatures that determine the stretching and squeezing mechanisms which act on flows in phase space and are responsible for generating chaotic behavior."
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
