@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<a id="gravite">
-![Couvertures "Qu'est-ce que la gravité?"](/assets/images/questcegravite.jpeg){:width="200px" .align-center}</a>
+{:center}
+![Couvertures "Qu'est-ce que la gravité?"](/assets/images/questcegravite.jpeg){:width="200px"}
+![Couvertures "Qu'est-ce que la gravité? (poche)"](/assets/images/questcegravitepoche.jpeg){:width="200px"}
 {:center: style="text-align: center"}
 
-[Qu'est-ce que la gravité?](https://www.dunod.com/sciences-techniques/qu-est-ce-que-gravite-grand-defi-physique)
-[Le grand défi de la physique](https://www.dunod.com/sciences-techniques/qu-est-ce-que-gravite-grand-defi-physique)
-(Dunod, 2019)
+Qu'est-ce que la gravité?<br>
+[Le grand défi de la physique](https://www.dunod.com/sciences-techniques/qu-est-ce-que-gravite-grand-defi-physique-0)  Dunod (2019, poche 2022)
 {:center}
 
 Sommaire
