@@ -19,7 +19,7 @@ redirect_from:
 <a id="conferences">International conferences and Schools</a>
 ---
 
-* 2022: [Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology](https://www.ams.org/meetings/international/2269_program_ss18.html#title) of [AMS-SMF-EMS Joint International Meeting](https://www.ams.org/meetings/international/2269_program.html) Université de Grenoble-Alpes, Grenoble, France
+* 2022: *Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology* of [AMS-SMF-EMS Joint International Meeting](https://ams-ems-smf2022.inviteo.fr) Université de Grenoble-Alpes, Grenoble, France
 * 2021: [Gravitational scattering, inspiral, and radiation](https://www.ggi.infn.it/showevent.pl?id=363) at the Galileo Galilei Institute, Florence, Italy
 * 2020: [Paris Winter Workshop: The Infrared in QFT](https://indico.in2p3.fr/event/20557/)
 * 2019: [Workshop on multi-loop calculations (methods and applications)](https://multi-loop-2019.sciencesconf.org/), Paris, France
