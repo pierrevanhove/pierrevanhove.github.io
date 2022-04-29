@@ -52,10 +52,10 @@ Bar des sciences
 Présentation de livre
 ---
 
-* <a href="livres/questcequelagravite.html">Qu'est-ce que la gravité ?</a>
+* <a href="../livres/questcequelagravite.html">Qu'est-ce que la gravité ?</a>
   - 14 novembre 2019 présentation  à Valenciennes et Douai dans le cadre de cité-Philo  [pdf](/files/gravite-citephilo-novembre2019.pdf)
 
-* [ <a href="livres/imaginaires.html">Les imaginaires en géométrie</a> ] de Paul Florensky
+* [ <a href="../livres/imaginaires.html">Les imaginaires en géométrie</a> ] de Paul Florensky
   - [Paul Florensky, prêtre, savant, au temps des révolutions scientifiques et bolchévique](/files/florensky-11decembre2017.pdf)
   - [La cosmologie Aristotélicienne - Ptolémaïque - Dantesque de Florensky](/files/florensky-25mai2018.pdf), [Journée d’études Le point, le cercle et la sphère chez Dante Alighieri](http://dantesque.fr/archive/point-cercle-sphere-chez-dante-alighieri/) [vidéo](https://www.youtube.com/watch?v=i6q-uSr2iCA&t=74s)
 
