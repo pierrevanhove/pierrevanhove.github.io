@@ -29,4 +29,4 @@ Co-traduction française avec Françoise Lhoest du livre [Мнимости в г
 * Mention dans l'article [Quelle russophilie française ? Contribution à l’histoire des représentations françaises de la Russie](https://www.diploweb.com/Quelle-russophilie-francaise-Contribution-a-l-histoire-des-representations-francaises-de-la-Russie.html) (diploweb 19 janvier 2018)
 * Présentation <i>La cosmologie Aristotélicienne - Ptolémaïque - Dantesque de Florensky</i>  [pdf](https://drive.google.com/open?id=1CrI2GMtVZT-_M2WfTakB-cjCKQMMlZ46), [Journée d’études Le point, le cercle et la sphère chez Dante Alighieri](http://dantesque.fr/archive/point-cercle-sphere-chez-dante-alighieri/)  [video](https://www.youtube.com/watch?v=i6q-uSr2iCA&t=74s) de l'exposé
 * [Cédric Villani : « Ce sont les idées qui font les révolutions ! »](https://www.technikart.com/cedric-villani-ce-sont-les-idees-qui-font-les-revolutions/) (Technikart, 15 mai 2019)
-
+* [Cédric Villani: Ukraine : abondance perdue](https://lesfrancais.press/ukraine-abondance-perdue/) lesfrancais.press
