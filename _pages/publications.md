@@ -13,7 +13,7 @@ author_profile: true
 Articles that are not accesible online :
 ----------------------------------------   
 
-* [An S-matrix approach to gravitational-wave physics](/files/RSTA_Vanhove.pdf) [to appear in the PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A]
+* [An S-matrix approach to gravitational-wave physics](/files/rsta.2021.0181.pdf) published as [Phil.Trans. R. Soc. A380: 20210181](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0181)
 * [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
 * [Symétries de dualité et formes automorphes en théorie des cordes](/files/lecon-mathematiques-bordeaux-texte-mars2017.pdf) Texte à paraitre dans le volume 6 des [Leçons de mathématique et d'informatique d'Aujourdhui](https://ed-mi.u-bordeaux.fr/L-Ecole-doctorale/Lecons-de-Mathematiques-et-d-Informatique-d-Aujourd-hui)
 * [The physics of quantum gravity](/files/CRAS2014.pdf/)  published as [Comptes Rendus Physique Volume 15, Issue 6, June–July 2014, Pages 547-552](https://www.sciencedirect.com/science/article/pii/S1631070514000474)
