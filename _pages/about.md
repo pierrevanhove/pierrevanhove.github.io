@@ -12,10 +12,6 @@ redirect_from:
 
 ![string](/assets/images/string.gif){: .align-center}
 
-Forthcoming activities:
-===
-July 18-22, 2022: 
-*Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology* of the [AMS-SMF-EMS Joint International Meeting](https://ams-ems-smf2022.inviteo.fr) Grenoble, France
 
 Current activities:
 ====
