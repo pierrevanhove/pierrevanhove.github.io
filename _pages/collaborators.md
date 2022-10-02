@@ -83,6 +83,6 @@ author_profile: true
 ---
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+bloch)  Spencer Bloch
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+kerr)  Matt Kerr
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+lairez&of=hb&action_search=Recherche&sf=earliestdate&so=d) Pierre Lairez
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+miller)  Stephen D Miller
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+zerbini&of=hb&action_search=Recherche&sf=earliestdate&so=d) Federico Zerbini
-* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+lairez&of=hb&action_search=Recherche&sf=earliestdate&so=d) Pierre Lairez
