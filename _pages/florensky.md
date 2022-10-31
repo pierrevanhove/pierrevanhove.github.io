@@ -1,7 +1,7 @@
 ---
 layout: archive
 #title: "livres"
-permalink: /livres/
+permalink: /livres/imaginaires.html
 author_profile: true
 ---
 

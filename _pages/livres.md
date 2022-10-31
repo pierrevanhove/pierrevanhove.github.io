@@ -14,7 +14,7 @@ author_profile: true
 
 <a id="livres">Livres tout public en Français</a>
 ------------------
-
+* <A href="espritamecorps.html">L'Esprit, l'âme et le corps</A>
 * <A href="questcequelagravite.html">Qu'est-ce que la gravité?</A> 
 * <A href="imaginaires.html">Les imaginaires en géométrie</A> 
 * <A href="formeunivers.html">Forme et origines de l'Univers</A>
