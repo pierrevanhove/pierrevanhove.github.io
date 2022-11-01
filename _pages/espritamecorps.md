@@ -15,4 +15,4 @@ author_profile: true
 
 * Recensions : 
 ---
-	* [L'Esprit, l'âme et le corps](https://www.radiofrance.fr/franceculture/podcasts/orthodoxie/l-esprit-l-ame-et-le-corps-5814220) - Dimanche 30 octobre 2022
+	* [L'Esprit, l'âme et le corps](https://www.radiofrance.fr/franceculture/podcasts/orthodoxie/l-esprit-l-ame-et-le-corps-5814220) - France Culture, Dimanche 30 octobre 2022
