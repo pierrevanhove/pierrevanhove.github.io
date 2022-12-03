@@ -90,12 +90,10 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
   inspirehep       : "https://inspirehep.net/authors/984979?ui-citation-summary=true"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  bitbucket        :
+  zbMath           :  "https://zbmath.org/authors/?q=ai%3Avanhove.pierre"
   facebook         : "pierre.vanhove.754"
   github           : "pierrevanhove"
   orcid            : "https://orcid.org/0000-0001-5115-4788"
-  youtube          :
   wikipedia        :  "Pierre_Vanhove"
 
 
