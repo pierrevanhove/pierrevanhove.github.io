@@ -37,6 +37,7 @@ Conférences de physique dans les lycées et exposés grands publics
   - 13 octobre 2018 : [Société astronomique de France](http://www.planetastronomy.com/special/2019-special/13oct/CosmoSAF-TN.htm) et [second compte-rendu](https://saf-astronomie.fr/les_trous_noirs_quantiques/)  [pdf](/files/saf-13octobre2018.pdf)
   - 18 avril 2019: Nouveaux colloque de l'orme  [pdf](/files/colloque-orme-18avril2019.pdf) - [vidéo](https://www.youtube.com/watch?v=NPBaXUy5GPg)
   - 19 juillet 2019: [French fellow meeting](/files/black-hole-churchill-college-19juilllet2019.pdf), Churchill College, Cambridge (UK)
+  - 12 janvier 2023: Cycle de conférences inter-lycées Briand-Senghor, Evreux, France [pdf](/files/trous-noirs-Senghors-12-janvier-2023.pdf)
 * Gravitation et théorie Quantique  [pdf](/files/gravite-cea-10mai2017.pdf) - [vidéo](https://www.youtube.com/watch?v=weKAgv5jV9M&t=4s)
   - 10 mai 2018 : conférence [Qu'est-ce que la Gravité?](https://phbrax.wixsite.com/gravite) IPhT  
 * Des ondes gravitationnelles à la théorie des cordes: Quelle théorie de la gravitation?
