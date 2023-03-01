@@ -14,7 +14,7 @@ author_profile: true
 
 <a id="students">Research Students</a>
 ---
-* 2021 - 2024 : Eric  Pichon (phd student)
+* 2021 - 2024 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Pichon-Pharabod) Eric Pichon-Pharabod (phd student)
 * 2021 : Radu Moga (master student)
 * 2020: Rishabh Bhardwaj  (master student)
 * 2018 - 2021 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Mougiakakos) Stavros Mougiakakos (PhD student) 
@@ -82,6 +82,8 @@ author_profile: true
 <a id="mathematics">Mathematics papers</a>
 ---
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+bloch)  Spencer Bloch
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+doran&of=hb&action_search=Recherche&sf=earliestdate&so=d) Charles F. Doran
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+harder&of=hb&action_search=Recherche&sf=earliestdate&so=d) Andrew Harder
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+kerr)  Matt Kerr
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+lairez&of=hb&action_search=Recherche&sf=earliestdate&so=d) Pierre Lairez
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+miller)  Stephen D Miller
