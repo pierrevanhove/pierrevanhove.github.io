@@ -14,7 +14,7 @@ author_profile: true
 
 <a id="students">Research Students</a>
 ---
-* 2021 - 2024 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Pichon-Pharabod) Eric Pichon-Pharabod (phd student)
+* 2021 - 2024 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Pichon-Pharabod) [Eric Pichon-Pharabod](https://ericpipha.github.io) (phd student)
 * 2021 : Radu Moga (master student)
 * 2020: Rishabh Bhardwaj  (master student)
 * 2018 - 2021 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Mougiakakos) Stavros Mougiakakos (PhD student) 
