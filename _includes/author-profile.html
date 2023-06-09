@@ -104,13 +104,16 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      <li><a href="{{ author.googlescholar }}"><img class=""  style="width: 20px;height: 20px" src="../assets/images/Google_Scholar_logo.svg.png"> Google Scholar</a></li>
       {% endif %}
       {% if author.inspirehep %}
-        <li><a href="{{ author.inspirehep }}"><i class="fas fa-fw fa-graduation-cap"></i> Inspire HEP</a></li>
+      <li><a href="{{ author.inspirehep }}"><img class=""  style="width: 20px;height: 20px" src="../assets/images/inspirehep.png"> Inspire HEP</a></li>
+      {% endif %}
+      {% if author.arXiv %}
+      <li><a href="{{ author.arXiv }}"><img class=""  style="width: 20px;height: 20px" src="../assets/images/arxiv-logomark-small.svg"> arXiv</a></li>
       {% endif %}
       {% if author.zbMath %}
-        <li><a href="{{ author.zbMath }}"><i class="fas fa-fw fa-graduation-cap"></i> zbMATH</a></li>
+      <li><a href="{{ author.zbMath }}"><img class=""  style="width: 20px;height: 20px" src="../assets/images/zbmath.jpg"> zbMATH</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
