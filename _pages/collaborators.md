@@ -14,7 +14,7 @@ author_profile: true
 
 <a id="students">Research Students</a>
 ---
-* 2021 - 2024 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Pichon-Pharabod) [Eric Pichon-Pharabod](https://ericpipha.github.io) (phd student)
+* 2021 - 2024 : [papers](https://arxiv.org/search/math?searchtype=author&query=Pichon-Pharabod%2C+E) [Eric Pichon-Pharabod](https://ericpipha.github.io) (phd student)
 * 2021 : Radu Moga (master student)
 * 2020: Rishabh Bhardwaj  (master student)
 * 2018 - 2021 : [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Mougiakakos) Stavros Mougiakakos (PhD student) 
@@ -85,6 +85,6 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+doran&of=hb&action_search=Recherche&sf=earliestdate&so=d) Charles F. Doran
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+harder&of=hb&action_search=Recherche&sf=earliestdate&so=d) Andrew Harder
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+kerr)  Matt Kerr
-* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+lairez&of=hb&action_search=Recherche&sf=earliestdate&so=d) Pierre Lairez
+* [papers](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Vanhove&terms-0-field=author&terms-1-operator=AND&terms-1-term=Lairez&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) Pierre Lairez
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+miller)  Stephen D Miller
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+zerbini&of=hb&action_search=Recherche&sf=earliestdate&so=d) Federico Zerbini
