@@ -18,5 +18,8 @@ main:
   - title: "Exposés grand public"
     url: /talks/
 
+  - title: "Media"
+    url: /media/
+
   - title: "Livres - Books"
     url: /livres/
