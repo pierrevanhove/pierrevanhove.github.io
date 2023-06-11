@@ -1,7 +1,7 @@
 ---
 layout: archive
 #title: "livres"
-permalink: /Media/index.html
+permalink: /media/index.html
 author_profile: true
 ---
 
