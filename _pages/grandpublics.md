@@ -34,10 +34,12 @@ Conférences de physique dans les lycées et exposés grands publics
 * [La gravitation quantique](/files/scienceouverte-ENS-6avril2017.pdf) (gros fichier 60 Mo)
   - 6 avril 2017 : [Association science ouverte](http://scienceouverte.fr/) stage [Ondes gravitationnelles](http://scienceouverte.fr/Stage-Ondes-gravitationnelles)
 * Mystérieux trous noirs
+  - 15 juin 2023 : [Les ajités](https://drive.google.com/file/d/1-4CYnbNQ90Jdm2yiScC0erFhs-Bi2usm/view) Institut du Cerveau, hôpital Pitié Salpêtrière, Paris, France [pdf](/files/trous-noirs-Centre-Cerveaux-14-juin-2023.pdf)
   - 13 octobre 2018 : [Société astronomique de France](http://www.planetastronomy.com/special/2019-special/13oct/CosmoSAF-TN.htm) et [second compte-rendu](https://saf-astronomie.fr/les_trous_noirs_quantiques/)  [pdf](/files/saf-13octobre2018.pdf)
   - 18 avril 2019: Nouveaux colloque de l'orme  [pdf](/files/colloque-orme-18avril2019.pdf) - [vidéo](https://www.youtube.com/watch?v=NPBaXUy5GPg)
   - 19 juillet 2019: [French fellow meeting](/files/black-hole-churchill-college-19juilllet2019.pdf), Churchill College, Cambridge (UK)
   - 12 janvier 2023: Cycle de conférences inter-lycées Briand-Senghor, Evreux, France [pdf](/files/trous-noirs-Senghors-12-janvier-2023.pdf)
+  - 15 juin 2023: [Science and Pizzas](https://drive.google.com/file/d/1-4CYnbNQ90Jdm2yiScC0erFhs-Bi2usm/view), Hopital Pitié-Salpétrière, Paris, France
 * Gravitation et théorie Quantique  [pdf](/files/gravite-cea-10mai2017.pdf) - [vidéo](https://www.youtube.com/watch?v=weKAgv5jV9M&t=4s)
   - 10 mai 2018 : conférence [Qu'est-ce que la Gravité?](https://phbrax.wixsite.com/gravite) IPhT  
 * Des ondes gravitationnelles à la théorie des cordes: Quelle théorie de la gravitation?
