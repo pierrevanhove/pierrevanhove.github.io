@@ -56,7 +56,7 @@ Grants
 
 Administration 
 =====
-* 2023 : Membre du bureau &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo; du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
+* 2023 : Rédaction du [chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
 * 2013- : Member of the editorial board of JHEP
 * 2012 - 2014: Member of the editorial board of European Journal of Physics C section  Gravitation, Astroparticle Physics and Cosmology, General Aspects of Quantum Field Theories and Alternatives
 * 2008-2012: CNRS national comitee section 02 theoretical physics
