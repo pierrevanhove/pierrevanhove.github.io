@@ -15,7 +15,7 @@ Rapport divers :
 ----------------
 
 * 12/07/2023 : [Chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
-* 2009 : Rédaction du [Rapport sur la sûreté du Large Hadron Collider](/files/LHCsecurityASNfinal.pdf) commandé par l'Autorité de Sûreté Nucléaire
+* 2009 : [Rapport sur la sûreté du Large Hadron Collider](/files/LHCsecurityASNfinal.pdf) commandé par l'Autorité de Sûreté Nucléaire
 
 Articles that are not accesible online :
 ----------------------------------------   
