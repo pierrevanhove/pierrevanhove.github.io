@@ -49,7 +49,7 @@ redirect_from:
 ---
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html)
 * [Séminaire Motifs et intégrales de Feynman](http://www.ihes.fr/~vanhove/motivefeynman.html) at CMLS Ecole polytechnique
-* [Séminaire Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/lmh-mathematiques-et-physique/lmh-seminaire-itzykson) du labex Hadamard
+* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/la-fmjh-soutient/recherche/maths-physique/seminaire-itzykson/) de la fondation Hadamard
 * [Physics and Mathematical seminars](http://www.ihes.fr/~vanhove/mathphys.shtml) at [IHÉS](http://www.ihes.fr/)
 * [Seminar on experimental and theoretical aspects of gravity](http://www.ihes.fr/~vanhove/seminairegravitation.html) at [IHÉS](http://www.ihes.fr/)
 * [Theoretical physics seminars](http://semparis.lpthe.jussieu.fr/list?date=7&seriescodes=11&subject=All&searchfield=Orateur) at [IHÉS](http://www.ihes.fr/)
