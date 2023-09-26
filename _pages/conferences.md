@@ -19,6 +19,7 @@ redirect_from:
 <a id="conferences">International conferences and Schools</a>
 ---
 
+* 2023: [Célébration des 60 ans de l'Institut de Physique Théorique](https://indico.in2p3.fr/event/30681/)
 * 2022: *Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology* of [AMS-SMF-EMS Joint International Meeting](https://ams-ems-smf2022.inviteo.fr) Université de Grenoble-Alpes, Grenoble, France
 * 2021: [Gravitational scattering, inspiral, and radiation](https://www.ggi.infn.it/showevent.pl?id=363) at the Galileo Galilei Institute, Florence, Italy
 * 2020: [Paris Winter Workshop: The Infrared in QFT](https://indico.in2p3.fr/event/20557/)
