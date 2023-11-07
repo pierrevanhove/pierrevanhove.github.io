@@ -7,7 +7,11 @@ author_profile: true
 {% include base_path %}
 
 {:center: style="text-align: left"}
-* <a href="grandpublics.html">Exposés grands publics en français</a>  
+* Exposés grands publics en français
+    - <a href="grandpublics.html#conferences">Conférences de physique dans les lycées et exposés grands publics</a>
+    - <a href="grandpublics.html#experiences">Expériences en classe</a>
+    - <a href="grandpublics.html#barscience">Bar des sciences</a>
+    - <a href="grandpublics.html#livres">Présentation de livres tout public</a>
 
 * <a href="colloquia.html">Colloquia en français et en anglais</a>
 

@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Conférences de physique dans les lycées et exposés grands publics
+<a id="conferences">Conférences de physique dans les lycées et exposés grands publics</a>
 ====
 
 
@@ -46,20 +46,20 @@ Conférences de physique dans les lycées et exposés grands publics
   - 13 novembre 2018:   Lycée Wallon, Valenciennes  [pdf](/files/valenciennes-13novembre2018.pdf)
   - 13 novembre 2018:   Lycée Châtelet, Douai [pdf](/files/douai-13novembre2018.pdf)
 
-Expériences en classe
+<a id="experiences">Expériences en classe</a>
 ====
 
 * La chute des corps
     - 20 novembre 2023: Classe de 4ème primaire école de
     Cressy-Confignon, Confignon, Suisse
 
-Bar des sciences
+<a id="barscience">Bar des sciences</a>
 ===
 
 * 14 décembre 2012: Bar des sciences Einstein peut-il être détrôné? à la MJC Savigny-sur-Orgue
 * 2 juillet 2014:  Bar des sciences La physique de la matière après le Higgs? Café du Pont Neuf [pdf](/files/bar-des-sciences-juillet2014.pdf)
 
-Présentation de livre
+<a id="livres">Présentation de livres tout public</a>
 ===
 
 * <a href="../livres/questcequelagravite.html">Qu'est-ce que la gravité ?</a>
