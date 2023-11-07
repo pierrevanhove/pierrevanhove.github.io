@@ -80,10 +80,10 @@ analytics:
 #footer
 footer:
   links:
-    - label: "Github"
+    -label: "Github"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/pierrevanhove"
-    - label: "Facebook"
+    -label: "Facebook"
     icon: "fab fa-fw fa-facebook"
     url: "https://www.facebook.com/pierre.vanhove.754"
 
@@ -97,11 +97,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
   inspirehep       : "https://inspirehep.net/authors/984979?ui-citation-summary=true"
   arXiv            : "https://arxiv.org/search/?query=vanhove%2C+p&searchtype=author&source=header&order=-announced_date_first&size=50&abstracts=show&start=0"  
-  zbMath           :  "https://zbmath.org/authors/?q=ai%3Avanhove.pierre"
+  zbMath           : "https://zbmath.org/authors/?q=ai%3Avanhove.pierre"
   facebook         : "pierre.vanhove.754"
   github           : "pierrevanhove"
   orcid            : "https://orcid.org/0000-0001-5115-4788"
-  wikipedia        :  "Pierre_Vanhove"
+  youtube          : "https://www.youtube.com/playlist?list=PL_yIFPZJJb4o-gLw6nkL2XH26NxbZKCoh"
+  wikipedia        : "Pierre_Vanhove"
 
 
 # Reading Files
