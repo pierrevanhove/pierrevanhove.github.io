@@ -51,7 +51,7 @@ author_profile: true
 
 * La chute des corps
     - 20 novembre 2023: Classe de 4ème primaire école de
-    Cressy-Confignon, Confignon, Suisse
+    Cressy-Confignon, Confignon, Suisse [pdf](/files/chute_libre-Ecole-Cressy-20Novembre2023.pdf)
 
 <a id="barscience">Bar des sciences</a>
 ===
