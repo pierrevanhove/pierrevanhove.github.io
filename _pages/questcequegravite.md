@@ -10,10 +10,11 @@ author_profile: true
 {:center}
 ![Couvertures "Qu'est-ce que la gravité?"](/assets/images/questcegravite.jpeg){:width="200px"}
 ![Couvertures "Qu'est-ce que la gravité? (poche)"](/assets/images/questcegravitepoche.jpeg){:width="200px"}
+![Couvertures "Qu'est-ce que la gravité? (poche)"](/assets/images/questcegravitepoche2023.jpeg){:width="200px"}
 {:center: style="text-align: center"}
 
 Qu'est-ce que la gravité?<br>
-[Le grand défi de la physique](https://www.dunod.com/sciences-techniques/qu-est-ce-que-gravite-grand-defi-physique-0)  Dunod (2019, poche 2022)
+[Le grand défi de la physique](https://www.dunod.com/sciences-techniques/qu-est-ce-que-gravite-grand-defi-physique-1)  Dunod (2019, poche 2022, 2023)
 {:center}
 
 Sommaire
