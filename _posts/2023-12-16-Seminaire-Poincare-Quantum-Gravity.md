@@ -1,6 +1,6 @@
 ---
 title: 'Seminaire Poincare'
-date: 2023-12-16
+date: 2023-12-3
 permalink: /posts/2023/12/blog-post-seminaire-poincare-quantum-gravity/
 tags:
   - Conference
