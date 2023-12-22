@@ -39,8 +39,9 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+berkovits) Nathan Berkovits
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+bjerrum-bohr) Niels Emil Jannik Bjerrum-Bohr
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+bossard) Guillaume Bossard
-* [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+brax&of=hb&action_search=Recherche&sf=&so=d&rm=&rg=25&sc=0) Philippe Brax
-* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and++Cristofoli&of=hb&action_search=Recherche&sf=earliestdate&so=d) Andrea Cristofoli
+* [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+brax) Philippe Brax
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+Cristofoli) Andrea Cristofoli
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+Chowdhury) Chandramouli Chowdhury
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+damgaard) Poul Henrik Damgaard
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+donoghue) John F. Donoghue
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+d%27hoker) Eric D'Hoker
@@ -59,13 +60,15 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+kohlprath) Emmanuel Kohlprath
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+kostov) Ivan Kostov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+kwon) Hwang-h Kwon
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lipstein) Arthur Lipstein
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+mei) Jiajie Mei
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+minasian) Ruben Minasian
 * [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Mougiakakos) Stavros Mougiakakos
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+obers) Niels Obers
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+ochirov) Alexander Ochirov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+peeters) Kasper Peeters
-* [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+vanhove&of=hb&action_search=Recherche) Marios Petropoulos
-* [papers](http://inspirehep.net/search?ln=fr&p=a+plante+and+vanhove&of=hb&action_search=Recherche) Ludovic Planté
+* [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+vanhove) Marios Petropoulos
+* [papers](http://inspirehep.net/search?ln=fr&p=a+plante+and+vanhove) Ludovic Planté
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+russo) Jorge Russo
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+sachs) Ivo Sachs
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+shatashvili) Samson Shatashvili
