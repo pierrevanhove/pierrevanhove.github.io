@@ -43,6 +43,7 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+Cristofoli) Andrea Cristofoli
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+Chowdhury) Chandramouli Chowdhury
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+damgaard) Poul Henrik Damgaard
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+cruz) Leonardo de la Cruz
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+donoghue) John F. Donoghue
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+d%27hoker) Eric D'Hoker
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+fabre) Cyrille Fabre

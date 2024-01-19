@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre Vanhove"
+#title: "Pierre Vanhove"
 excerpt: "Pierre Vanhove website"
 author_profile: true
 redirect_from: 
