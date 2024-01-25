@@ -18,4 +18,6 @@ author_profile: true
 * <a href="colloquia.html">Colloquia en français et en anglais</a>
 
 * <a href="https://www.youtube.com/playlist?list=PL_yIFPZJJb4o-gLw6nkL2XH26NxbZKCoh">Vidéos sur youtube</a>
+
+* <a href="https://www.carmin.tv/en/speakers/pierre-vanhove">Vidéos sur Carmin.tv</a>
 {:center}
