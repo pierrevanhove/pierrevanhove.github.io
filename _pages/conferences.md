@@ -48,6 +48,7 @@ redirect_from:
 
 <a id="seminars">Research Seminars</a>
 ---
+* [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html)
 * [Séminaire Motifs et intégrales de Feynman](http://www.ihes.fr/~vanhove/motivefeynman.html) at CMLS Ecole polytechnique
 * [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-physique/seminaire-itzykson/) de la fondation Hadamard
