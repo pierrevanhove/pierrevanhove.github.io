@@ -1,5 +1,5 @@
 ---
-title: 'Seminaire Poincare'
+title: 'Prix Cosmos'
 date: 2024-02-8
 permalink: /posts/2024/02/blog-post-prix-cosmos/
 tags:
