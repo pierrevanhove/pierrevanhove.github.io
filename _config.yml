@@ -96,7 +96,7 @@ author:
   employer         : 
   links:
     - label: "Inspire HEP"
-      icon: "assets/images/inspirehep.png"
+      icon: "/assets/images/inspirehep.png"
       url: "https://inspirehep.net/authors/984979?ui-citation-summary=true"
     - label: "arXiv"
       icon: "/assets/images/arxiv-logomark-small.svg"

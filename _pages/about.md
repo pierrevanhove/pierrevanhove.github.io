@@ -18,7 +18,7 @@ Current activities:
 * [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-physique/seminaire-itzykson/) de la fondation Hadamard
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 
-* [Prix Cosmos]() du livre de vulgarisation scientifique
+* [Prix Cosmos](http://prixcosmos.github.io/) du livre de vulgarisation scientifique
 
 
 
