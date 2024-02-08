@@ -1,9 +1,11 @@
 ---
-layout: archive
 permalink: /conferences/
 author_profile: true
 redirect_from:
   - /resume
+toc: true
+toc_sticky: true
+toc_label: "Conferences"
 ---
 
 {% include base_path %}
@@ -11,13 +13,7 @@ redirect_from:
 ![cosinus](/assets/images/cosinus.gif){: .align-center}
 
 
-{:center: style="text-align: center"}
-
-<A href="#conferences">Conferences</A> -- <A href="#seminars">Seminars</A>
-{:center}
-
-<a id="conferences">International conferences and Schools</a>
----
+## International conferences and Schools
 
 * 2023: [Célébration des 60 ans de l'Institut de Physique Théorique](https://indico.in2p3.fr/event/30681/)
 * 2022: *Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology* of [AMS-SMF-EMS Joint International Meeting](https://ams-ems-smf2022.inviteo.fr) Université de Grenoble-Alpes, Grenoble, France
@@ -46,8 +42,8 @@ redirect_from:
 * 2004: [String 2004](http://strings04.lpthe.jussieu.fr/) conference at Collège de France
 * 2003: [Les Houches](https://www.houches-school-physics.com/) Winter School [Frontiers in Number Theory, Physics and Geometry](http://www.ihes.fr/~vanhove/Houches2003/index.html)
 
-<a id="seminars">Research Seminars</a>
----
+## Research Seminars
+ 
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html)
 * [Séminaire Motifs et intégrales de Feynman](http://www.ihes.fr/~vanhove/motivefeynman.html) at CMLS Ecole polytechnique

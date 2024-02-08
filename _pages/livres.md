@@ -1,19 +1,17 @@
 ---
-layout: archive
-#title: "livres"
 permalink: /livres/index.html
 author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Menu"
 ---
 
 {% include base_path %}
 
-{:center: style="text-align: center"}
-<a href="#livres">Livres tout public en Français</a>  -- <a href="#research">Research book in English</a>
-{:center}
 
 
-<a id="livres">Livres tout public en Français</a>
-------------------
+## Livres tout public en Français
+ 
 * <A href="espritamecorps.html">L'Esprit, l'âme et le corps</A>
 * <A href="questcequelagravite.html">Qu'est-ce que la gravité?</A> 
 * <A href="imaginaires.html">Les imaginaires en géométrie</A> 
@@ -21,8 +19,8 @@ author_profile: true
 
 --------------------------------
 
-<a id="research">Research books</a>
----
+## Research books
+
 
 * [String Theory: Formal Developments and Applications](http://www.sciencedirect.com/science/article/pii/S0920563211005214)
 coedited with Laurent Baulieu, Jan de Boer, Michael Douglas, Eliezer Rabinovici and Paul Windey.

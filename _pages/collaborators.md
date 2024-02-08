@@ -1,19 +1,16 @@
 ---
-layout: archive
 permalink: /collaborators/
 author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Collaborators"
 ---
 
 {% include base_path %}
 
-{:center: style="text-align: center"}
 
-<a href="#students">Research Students</a> -- <a href="#physics">Physics</a> -- <a href="#mathematics">Mathematics</a>
-{:center}
-
-
-<a id="students">Research Students</a>
----
+## Research Students
+ 
 * 2021 - 2024 : [papers](https://arxiv.org/search/math?searchtype=author&query=Pichon-Pharabod%2C+E) [Eric Pichon-Pharabod](https://ericpipha.github.io) (phd student)
 * 2021 : Radu Moga (master student)
 * 2020: Rishabh Bhardwaj  (master student)
@@ -30,8 +27,8 @@ author_profile: true
 
 
 
-<a id="physics">Physics papers</a>
----
+## Physics papers
+
 * [papers](http://inspirehep.net//search?ln=fr&p=find+a+vanhove+and+anguelova) Lilia Anguelova
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+antoniadis) Ignatios Antoniadis
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+bachas) Constantin Bachas
@@ -83,8 +80,8 @@ author_profile: true
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+westerberg) Anders Westerberg
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang) Yihong Wang
 
-<a id="mathematics">Mathematics papers</a>
----
+## Mathematics papers
+ 
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+bloch)  Spencer Bloch
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+doran&of=hb&action_search=Recherche&sf=earliestdate&so=d) Charles F. Doran
 * [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+harder&of=hb&action_search=Recherche&sf=earliestdate&so=d) Andrew Harder

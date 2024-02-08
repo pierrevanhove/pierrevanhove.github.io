@@ -1,7 +1,6 @@
 ---
 permalink: /
 #title: "Pierre Vanhove"
-excerpt: "Pierre Vanhove website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,6 +17,8 @@ Current activities:
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html#nexttalk)
 * [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-physique/seminaire-itzykson/) de la fondation Hadamard
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
+
+* [Prix Cosmos]() du livre de vulgarisation scientifique
 
 
 

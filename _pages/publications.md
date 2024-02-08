@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Publications"
 ---
 
 {% include base_path %}
@@ -11,14 +12,14 @@ author_profile: true
  * My articles on [arXiv](https://arxiv.org/search/?query=vanhove%2C+p&searchtype=author&source=header&order=-announced_date_first&size=50&abstracts=show&start=0)
  * My articles on [Google Scholar profile](https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ)
 
-Rapport divers : 
-----------------
+# Rapport divers
 
 * 12/07/2023 : [Chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
 * 2009 : [Rapport sur la sûreté du Large Hadron Collider](/files/LHCsecurityASNfinal.pdf) commandé par l'Autorité de Sûreté Nucléaire
 
-Articles that are not accesible online :
-----------------------------------------   
+# Articles that are not accesible online 
+
+## Conference proceedings
 
 * [The symphony of gravity](/files/Poincare-Vanhove-2023.pdf) contribution to the [Séminaire Poincaré](http://www.bourbaphy.fr) on [Quantum gravity](http://www.bourbaphy.fr/GraviteQuantique.pdf) at IHP
 * [An S-matrix approach to gravitational-wave physics](/files/rsta.2021.0181.pdf) published as [Phil.Trans. R. Soc. A380: 20210181](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0181)
@@ -33,8 +34,8 @@ contributions to the proceedings of the [Workshop on Continuum and Lattice Appro
 [proceeding contributions](https://inspirehep.net/literature/637878) written with I. Antoniadis on the topic of localisation of gravity in string theory
 
 
-Lectures notes and Reviews:
----------------------------
+## Lectures notes and Reviews 
+
 * [Symétries de dualité et formes automorphes en théorie des cordes](/files/lecon-mathematiques-bordeaux-mars2017.pdf) Leçon de mathématique et d'informatique d'Aujourd'hui donnée à l'université de Bordeaux le 9 mars 2017. Vidéos: [Partie 1/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordespartie-1) - [Partie 2/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-2) -  [Partie 3/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-3) -  [Partie 4/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-4) -  [Partie 5/5](https://www.canal-u.tv/chaines/ed-miubordeaux/symetries-de-dualite-et-formes-automorphes-en-theorie-des-cordes-partie-5) 
 * [A short introduction to String theory](/files/short-introduction.pdf)  A short introduction to String theory 
 Notes of a lecture given at the school 1st Summer School of ITN: Unification in the LHC Era, 4 - 15 Septembre 2011, Corfu, Greece.
@@ -45,8 +46,8 @@ Lectures notes on M-theory, loop computations in eleven dimensions, BPS protecte
 * [Au bout de la corde... la théorie M](https://tel.archives-ouvertes.fr/tel-00001196)
 My PhD thesis dissertation in French defended on at the Ecole Polytechnique (France).
 
-Undergraduate period:
----------------------
+# Undergraduate period
+
 
 * [If it's not Dark, it doesn't Matter](/files/dark-matter-93.pdf)
 Report in english about some work on the WIMPs experiment done at the CfPA of Berkeley under the supervision of Prof. B. Sadoulet.

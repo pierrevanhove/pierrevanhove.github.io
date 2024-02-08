@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "News"
+  - title: "Nouvelles"
     url: /year-archive/
 
   - title: "Publications"
@@ -12,14 +12,14 @@ main:
   - title : "Collaborators"
     url: /collaborators/
 
-  - title: "Conferences"
+  - title: "Conférences"
     url: /conferences/
 
-  - title: "Exposés grand public"
-    url: /talks/
+  - title: "Grand public"
+    url: /grandpublic/
 
   - title: "Media"
     url: /media/
 
-  - title: "Livres - Books"
+  - title: "Livres"
     url: /livres/

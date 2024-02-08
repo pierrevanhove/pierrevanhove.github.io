@@ -1,16 +1,18 @@
 ---
-layout: archive
-permalink: /talks/grandpublics.html
+permalink: /grandpublic/
 author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Communication Scientifique"
 ---
 
 {% include base_path %}
 
-<a id="conferences">Conférences de physique dans les lycées et exposés grands publics</a>
-====
+## Conférences dans les lycées, musées, ...
 
 
-* La sympphonie de la gravité
+
+* La symphonie de la gravité
    - 16 décembre 2023: Institut Henri Poincaré [pdf](/files/seminaire-poincare-16decembre2023.pdf) slides in english
 * [Au bout de la corde ... les deux infinis](/files/dechiffreurs-douai.pdf)
   - 16 janvier 2012 :  Lycée d'Excellence de Douai [vidéo](http://lille1tv.univ-lille1.fr/videos/video.aspx?id=73f091c3-1ad3-4f09-818e-1b914f1f6b36)  --- [photographies](https://www.dailymotion.com/video/xpounq)
@@ -48,21 +50,21 @@ author_profile: true
   - 13 novembre 2018:   Lycée Wallon, Valenciennes  [pdf](/files/valenciennes-13novembre2018.pdf)
   - 13 novembre 2018:   Lycée Châtelet, Douai [pdf](/files/douai-13novembre2018.pdf)
 
-<a id="experiences">Expériences en classe</a>
-====
+## Expériences en classe
+ 
 
 * La chute des corps
     - 20 novembre 2023: Classe de 4ème primaire école de
     Cressy-Confignon, Confignon, Suisse [pdf](/files/chute_libre-Ecole-Cressy-20Novembre2023.pdf)
 
-<a id="barscience">Bar des sciences</a>
-===
+## Bar des sciences
+ 
 
 * 14 décembre 2012: Bar des sciences Einstein peut-il être détrôné? à la MJC Savigny-sur-Orgue
 * 2 juillet 2014:  Bar des sciences La physique de la matière après le Higgs? Café du Pont Neuf [pdf](/files/bar-des-sciences-juillet2014.pdf)
 
-<a id="livres">Présentation de livres tout public</a>
-===
+## Présentation de livres
+ 
 
 * <a href="../livres/questcequelagravite.html">Qu'est-ce que la gravité ?</a>
   - 14 novembre 2019 présentation  à Valenciennes et Douai dans le cadre de cité-Philo  [pdf](/files/gravite-citephilo-novembre2019.pdf)
