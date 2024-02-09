@@ -17,7 +17,6 @@ toc_label: "Menu"
 * <A href="imaginaires.html">Les imaginaires en géométrie</A> 
 * <A href="formeunivers.html">Forme et origines de l'Univers</A>
 
---------------------------------
 
 ## Research books
 
