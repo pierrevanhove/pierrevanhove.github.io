@@ -15,7 +15,7 @@ redirect_from:
 Current activities:
 ====
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html#nexttalk)
-* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-physique/seminaire-itzykson/) de la fondation Hadamard
+* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/physique-math/seminaire-itzykson/) de la fondation Hadamard
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 
 * [Prix Cosmos](http://prixcosmos.github.io/) du livre de vulgarisation scientifique

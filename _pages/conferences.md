@@ -47,7 +47,7 @@ toc_label: "Conferences"
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 * [Online seminar on motives and period integrals in Quantum field theory and String theory](http://www.ihes.fr/~vanhove/motivefeynman.html)
 * [Séminaire Motifs et intégrales de Feynman](http://www.ihes.fr/~vanhove/motivefeynman.html) at CMLS Ecole polytechnique
-* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-physique/seminaire-itzykson/) de la fondation Hadamard
+* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/physique-math/seminaire-itzykson/) de la fondation Hadamard
 * [Physics and Mathematical seminars](http://www.ihes.fr/~vanhove/mathphys.shtml) at [IHÉS](http://www.ihes.fr/)
 * [Seminar on experimental and theoretical aspects of gravity](http://www.ihes.fr/~vanhove/seminairegravitation.shtml) at [IHÉS](http://www.ihes.fr/)
 * [Theoretical physics seminars](http://semparis.lpthe.jussieu.fr/list?date=7&seriescodes=11&subject=All&searchfield=Orateur) at [IHÉS](http://www.ihes.fr/)
