@@ -30,6 +30,7 @@ France
 
 ## Distinctions
 
+* 2024: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
 * 2021 : Directeur de recherche CEA 
 * 2020 - 2021 : Scientific Associate CERN theory division
 * [Scientific associate at Niels Bohr institute Copenhague](https://nbia.nbi.ku.dk/members/adjuncts-and-associates/)
