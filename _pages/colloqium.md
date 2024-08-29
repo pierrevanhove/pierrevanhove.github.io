@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /talks/colloquia.html
+permalink: /colloquia/
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-Colloquia (séminaires généraux dans des laboratoires)
+Colloquia: Séminaires généraux
 ===
 
 * [Theoretical physics approaches to gravity: classical gravity, quantum gravity and string theory](/files/gravity-churchill-21juillet2018.pdf)

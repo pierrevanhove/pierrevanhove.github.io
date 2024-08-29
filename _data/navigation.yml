@@ -12,6 +12,9 @@ main:
   - title: "Conférences"
     url: /conferences/
 
+  - title: "Colloqiua"
+    url: /colloquia/
+
   - title: "Grand public"
     url: /grandpublic/
 
