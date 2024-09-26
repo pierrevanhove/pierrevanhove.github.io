@@ -20,7 +20,7 @@ Current activities:
 
 * [Prix Cosmos](http://prixcosmos.github.io/) du livre de vulgarisation scientifique
 
-
+* [Observables](https://observables.pages.math.cnrs.fr/) research projet, supported by the French ANR, on computing Observables in gauge and gravity from amplitude methods
 
 
 Research interests:
