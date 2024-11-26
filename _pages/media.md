@@ -61,7 +61,9 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 * 2009: [La supergravité est-elle la bonne théorie de la gravitation quantique ?](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-supergravite-elle-bonne-theorie-gravitation-quantique-19338/)
 
 # Presse généraliste - General media
- 
+
+* [Strung Out on Automorphic Forms](https://mathvoices.ams.org/featurecolumn/2024/11/01/strung-out-on-automorphic-forms/) AMS notice Novembre 2024
+* [Putting a period on mathematical physics](https://mathvoices.ams.org/featurecolumn/2023/07/01/period-math-physics/) AMS notice July 2023
 *  [Des algorithmes efficaces calculent les amplitudes de diffusion](https://www.cea.fr/drf/Pages/Actualites/En-direct-des-labos/2023/des-algorithmes-efficaces-calculent-les-amplitudes-de-diffusion.aspx)
 * [Ukraine : abondance perdue](https://lesfrancais.press/ukraine-abondance-perdue/) - Cédric Villani 18 avril 2022 
 * [Le plus grand défi de l’histoire de l’humanité](https://www.lemonde.fr/idees/article/2018/09/03/le-plus-grand-defi-de-l-histoire-de-l-humanite-l-appel-de-200-personnalites-pour-sauver-la-planete_5349380_3232.html) -- [The greatest challenge in the history of humanity](https://www.lemonde.fr/idees/article/2018/09/03/the-greatest-challenge-in-the-history-of-humanity-a-call-to-save-the-earth-by-200-personalities_5349631_3232.html) Le Monde   03.09.2018 
