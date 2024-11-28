@@ -32,11 +32,11 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 * 2020 :  Троицкий вариант — Наука [Охотники на спецфункции, или «Сириус» накануне вируса](https://trv-science.ru/2020/04/07/sirius/)
 * 2018 : Interview Science & Avenir pour le numéro spécial sur Stephen Hawking
 * 2016 : interview pour le numéro des Défis du CEA sur LIGO
-* 2015 : Interview pour le numéro hors-série de Science & Vie sur la gravitation
+* 2015 : Interview pour le numéro hors-série de Science & Vie sur la gravitation: [Théorie du tout : la gravitation à l'épreuve du microscopique](https://www.science-et-vie.com/article-magazine/theorie-du-tout-la-gravitation-a-lepreuve-du-microscopique)
 * 2014 : Interview Science & Avenir a propos des résultats de BICEP2
 * 2013: Interview Science & Vie Septembre 2013 a propos de l'avenir de physique suite à la mise en évidence d'un boson de Higgs au LHC
 * 2011 : Le Studium Newsletter [pdf](http://lestudium.cnrs-orleans.fr/anglais/rubriques/actu/conferences/conf_chamseddine/studiumconference_chamseddine.pdf)
-* 2009 :  Science & Vie (numéro 1106 novembre 2009)  [Théorie des cordes: elle sert enfin à quelque chose!](http://planete.gaia.free.fr/astronomie/astrophysique/uni/theorie.cordes.sert.html)
+* 2009 :  Science & Vie (numéro 1106 novembre 2009)  [Théorie des cordes: elle sert enfin à quelque chose!](https://www.science-et-vie.com/article-magazine/theorie-des-cordes-elle-sert-enfin-a-quelque-chose)
 
 # Blog
 
@@ -50,15 +50,15 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 # My work mentionned in the press
 
 
-* 2019: [Breakthrough Prize : des millions de dollars pour la supergravité, théorie quantique de la gravitation](https://www.futura-sciences.com/sciences/actualites/physique-breakthrough-prize-millions-dollars-supergravite-theorie-quantique-gravitation-19338/)
-* 2018: RIA Novosti : [Симметрия, лунатики, монстры: как строят теорию квантового мира](https://ria.ru/science/20180225/1515163705.html)
+* 2019 : [Breakthrough Prize : des millions de dollars pour la supergravité, théorie quantique de la gravitation](https://www.futura-sciences.com/sciences/actualites/physique-breakthrough-prize-millions-dollars-supergravite-theorie-quantique-gravitation-19338/)
+* 2018 : RIA Novosti : [Симметрия, лунатики, монстры: как строят теорию квантового мира](https://ria.ru/science/20180225/1515163705.html)
 * 2015 : Les Dernières Nouvelles d'Alsace  [Le Congrès Général de la SFP dans DNA](https://www.sfpnet.fr/le-congres-general-de-la-sfp-dans-dna)
-* 2015: [Quantum Bending of Light](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.114.061301) [dansk](http://videnskab.dk/miljo-naturvidenskab/danske-forskere-beregner-lysets-bojning-med-kvantefysik) 
-* 2015: [N=8 supergravity](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-supergravite-elle-bonne-theorie-gravitation-quantique-19338/)  
-* 2013: Modular and automorphic forms [e.g. [What are applications of number theory in physics?](https://math.stackexchange.com/questions/462216/what-are-applications-of-number-theory-in-physics)]
-* 2007: [A New (or Old?) Way to Make Gravity Consistent with Quantum Mechanics?](http://today.slac.stanford.edu/feature/2007/ROW-032907.asp)
-* 2009: [Superstring theory useful for experimental physics](http://phys.org/news176125202.html) -- [La théorie des cordes enfin utilisée en pratique](http://www.rtflash.fr/theorie-cordes-enfin-utilisee-en-pratique/article)
-* 2009: [La supergravité est-elle la bonne théorie de la gravitation quantique ?](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-supergravite-elle-bonne-theorie-gravitation-quantique-19338/)
+* 2015 : [Quantum Bending of Light](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.114.061301) [dansk](http://videnskab.dk/miljo-naturvidenskab/danske-forskere-beregner-lysets-bojning-med-kvantefysik) 
+* 2015 : [N=8 supergravity](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-supergravite-elle-bonne-theorie-gravitation-quantique-19338/)  
+* 2013 : Modular and automorphic forms [e.g. [What are applications of number theory in physics?](https://math.stackexchange.com/questions/462216/what-are-applications-of-number-theory-in-physics)]
+* 2007 : [A New (or Old?) Way to Make Gravity Consistent with Quantum Mechanics?](http://today.slac.stanford.edu/feature/2007/ROW-032907.asp)
+* 2009 : [Superstring theory useful for experimental physics](http://phys.org/news176125202.html) -- [La théorie des cordes enfin utilisée en pratique](http://www.rtflash.fr/theorie-cordes-enfin-utilisee-en-pratique/article)
+* 2009 : [La supergravité est-elle la bonne théorie de la gravitation quantique ?](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-supergravite-elle-bonne-theorie-gravitation-quantique-19338/)
 
 # Presse généraliste - General media
 
