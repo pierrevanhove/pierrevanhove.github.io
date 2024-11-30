@@ -13,7 +13,7 @@ toc_label: "Communication Scientifique"
 
 
 * La symphonie de la gravité
-   - 16 décembre 2023: Institut Henri Poincaré [pdf](/files/seminaire-poincare-16decembre2023.pdf) slides in english
+   - 16 décembre 2023: Institut Henri Poincaré [pdf](/files/seminaire-poincare-16decembre2023.pdf) slides in english -- [vidéo](https://www.carmin.tv/en/collections/seminaire-poincare-xxiv-gravite-quantique/video/la-symphonie-de-la-gravite) en français
 * [Au bout de la corde ... les deux infinis](/files/dechiffreurs-douai.pdf)
   - 16 janvier 2012 :  Lycée d'Excellence de Douai [vidéo](http://lille1tv.univ-lille1.fr/videos/video.aspx?id=73f091c3-1ad3-4f09-818e-1b914f1f6b36)  --- [photographies](https://www.dailymotion.com/video/xpounq)
   - 29 mars 2012 : Lycée les Iscles à Manosque: more informations and some pictures
