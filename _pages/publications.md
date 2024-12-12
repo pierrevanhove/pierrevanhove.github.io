@@ -21,6 +21,7 @@ toc_label: "Publications"
 
 ## Conference proceedings
 
+* [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](/files/proceeding-pisa-2024-Vanhove.pdf) the proceedings of the conference  [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy
 * [Differential equations and Motives of Feynman integrals](/files/ictp-2024.pdf) notes for the lectures given at the ICTP [School on Number Theory and Physics](https://indico.ictp.it/event/10485/other-view?view=ictptimetable) 17 Jun 2024 --  21 Jun 2024 
 
 * [The symphony of gravity](/files/Poincare-Vanhove-2023.pdf) contribution to the [Séminaire Poincaré](http://www.bourbaphy.fr) on [Quantum gravity](http://www.bourbaphy.fr/GraviteQuantique.pdf) at IHP
