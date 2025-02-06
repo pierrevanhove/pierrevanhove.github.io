@@ -54,7 +54,7 @@ toc_label: "Communication Scientifique"
 ## Expériences en classe
  
 * Où sommes-nous dans l'Univers?
-  - 19 février 2023: Classe de 5<sup>e</sup> primaire école de
+  - 19 février 2025: Classe de 5<sup>e</sup> primaire école de
     Cressy-Confignon, Confignon, Suisse [pdf](/files/univers_Cressy-19fevrier2025.pdf)
 
 * La chute des corps
