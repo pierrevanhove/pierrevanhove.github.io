@@ -78,7 +78,7 @@ toc_label: "Collaborators"
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+tourkine) Piotr Tourkine
 * [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+valageas&of=hb&action_search=Recherche&sf=&so=d&rm=&rg=25&sc=0) Patrick Valageas
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+westerberg) Anders Westerberg
-* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang) Yihong Wang
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang+yihong) Yihong Wang
 
 ## Mathematics papers
  
