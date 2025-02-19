@@ -55,7 +55,7 @@ toc_label: "Communication Scientifique"
  
 * Où sommes-nous dans l'Univers?
   - 19 février 2025: Classe de 5<sup>e</sup> primaire école de
-    Cressy-Confignon, Confignon, Suisse [pdf](/files/univers_Cressy-19fevrier2025.pdf)
+    Cressy-Confignon, Confignon, Suisse. [Fiche d'expériences (pdf)](/files/univers_Cressy-19fevrier2025.pdf), [Présentation (pdf)](/files/ou-sommes-nous-univers.pdf)
 
 * La chute des corps
     - 20 novembre 2023: Classe de 4<sup>e</sup> primaire école de
