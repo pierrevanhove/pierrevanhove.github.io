@@ -52,14 +52,17 @@ toc_label: "Communication Scientifique"
   - 13 novembre 2018:   Lycée Châtelet, Douai [pdf](/files/douai-13novembre2018.pdf)
 
 ## Expériences en classe
+
+![Ecole Cressy](/assets/images/ecole-cressy-5p.jpg)
+<center><small>&copy; Sonia Licciardello</small></center>
  
 * Où sommes-nous dans l'Univers?
   - 19 février 2025: Classe de 5<sup>e</sup> primaire école de
-    Cressy-Confignon, Confignon, Suisse. [Fiche d'expériences (pdf)](/files/cressy-19fevrier2025.pdf), [Présentation (pdf)](/files/ou-sommes-nous-univers.pdf)
+    <a href="https://edu.ge.ch/primaire/ecole/cressy">Cressy-Confignon</a>, Confignon, Suisse. [Fiche d'expériences (pdf)](/files/cressy-19fevrier2025.pdf), [Présentation (pdf)](/files/ou-sommes-nous-univers.pdf)
 
 * La chute des corps
     - 20 novembre 2023: Classe de 4<sup>e</sup> primaire école de
-    Cressy-Confignon, Confignon, Suisse [pdf](/files/chute_libre-Ecole-Cressy-20Novembre2023.pdf)
+     <a href="https://edu.ge.ch/primaire/ecole/cressy">Cressy-Confignon</a>, Confignon, Suisse [pdf](/files/chute_libre-Ecole-Cressy-20Novembre2023.pdf)
 
 ## Bar des sciences
  

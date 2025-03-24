@@ -27,7 +27,7 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 
 # Magazines de vulgarisation scientifique
 
-* 2025 : [POURRA-T-ON PASSER PAR UN TROU DE VER ?](https://www.science-et-vie.com/article-magazine/pourra-t-on-passer-par-un-trou-de-vers) Science & Vie Hors-Séries - Le numéro n°318 du 5 février 2025
+* 2025 : [POURRA-T-ON PASSER PAR UN TROU DE VER ?](https://www.science-et-vie.com/article-magazine/pourra-t-on-passer-par-un-trou-de-ver) Science & Vie Hors-Séries - Le numéro n°318 du 5 février 2025
 * 2022 : [Est-ce que les particules nommées "gravitons" existent ?](https://www.sciencesetavenir.fr/fondamental/particules/est-ce-que-les-particules-nommees-gravitons-existent_162271)
 * 2020 :  Троицкий вариант — Наука [Охотники на спецфункции, или «Сириус» накануне вируса](https://trv-science.ru/2020/04/07/sirius/)
 * 2018 : Interview Science & Avenir pour le numéro spécial sur Stephen Hawking
