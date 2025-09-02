@@ -14,7 +14,7 @@ toc_label: "Conferences"
 
 
 ## International conferences and Schools
-
+* 2025: [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview), Institut de Physique Théorique, France
 * 2023: [Célébration des 60 ans de l'Institut de Physique Théorique](https://indico.in2p3.fr/event/30681/)
 * 2022: *Special Session on Mathematical Physics of Gravity, Geometry, QFTs, Feynman and Stochastic Integrals, Quantum/Classical Number Theory, Algebra, and Topology* of [AMS-SMF-EMS Joint International Meeting](https://ams-ems-smf2022.inviteo.fr) Université de Grenoble-Alpes, Grenoble, France
 * 2021: [Gravitational scattering, inspiral, and radiation](https://www.ggi.infn.it/showevent.pl?id=363) at the Galileo Galilei Institute, Florence, Italy
