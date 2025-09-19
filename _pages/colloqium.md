@@ -9,6 +9,9 @@ author_profile: true
 
 Colloquia: Séminaires généraux
 ===
+* [Les motifs cachés de l’univers: 
+Quand la physique rencontre la géométrie algébrique](/files/motif-Louvre-Lens-septembre2025.pdf)
+	- 19 septembre 2025: 19ème Journée des Doctorants en Mathématiques de la région Hauts-de-France (JDM 2025), Louvre Lens Vallée, Lens
 
 * [Theoretical physics approaches to gravity: classical gravity, quantum gravity and string theory](/files/gravity-churchill-21juillet2018.pdf)
      - 21 juilet 2018  : [3rd French Fellows meeting Churchill College](https://uk.ambafrance.org/Troisieme-reunion-des-French-Government-Fellows-du-Churchill-College-de)
