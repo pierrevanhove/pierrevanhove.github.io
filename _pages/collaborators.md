@@ -58,8 +58,8 @@ toc_label: "Collaborators"
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+kohlprath) Emmanuel Kohlprath
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+kostov) Ivan Kostov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+kwon) Hwang-h Kwon
-<!-- * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lellouch) Laurent Lellouch -->
-<!-- *  [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lupo) Alessandro Lupo -->
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lellouch) Laurent Lellouch 
+*  [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lupo) Alessandro Lupo
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lipstein) Arthur Lipstein
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+mei) Jiajie Mei
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+minasian) Ruben Minasian
@@ -75,13 +75,13 @@ toc_label: "Collaborators"
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+shatashvili) Samson Shatashvili
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+skvortsov) Evgeny Skvortsov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+sondergaard) Thomas Søndergaard
-<!-- * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+sjo) Mattias Sjö -->
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+sjo) Mattias Sjö
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+stelle) Kellogg Stelle
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+sugino) Fumihiko Sugino
-<!-- * [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+szabo) Kálmán Szabo -->
+* [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+szabo) Kálmán Szabo
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+theisen) Stefan Theisen
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+tourkine) Piotr Tourkine
-* [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+valageas&of=hb&action_search=Recherche&sf=&so=d&rm=&rg=25&sc=0) Patrick Valageas
+* [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+valageas) Patrick Valageas
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+westerberg) Anders Westerberg
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang+yihong) Yihong Wang
 
