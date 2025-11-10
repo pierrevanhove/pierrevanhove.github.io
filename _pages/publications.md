@@ -21,7 +21,8 @@ toc_label: "Publications"
 
 ## Conference proceedings
 
-* [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](/files/proceeding-pisa-2024-Vanhove.pdf) the proceedings of the conference  [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy
+* [Next-to-next-to-next-to-leading order pion contributions to hadronic vacuum polarisation](/files/eps-hep-2025.pdf) proceeding contribution to the 2025 [EPS-HEP conference](https://www.eps-hep2025.eu), Marseille, France
+* [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](/files/proceeding-pisa-2024-Vanhove.pdf)  proceeding contribution of the conference  [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy
 * [The symphony of gravity](/files/Poincare-Vanhove-2023.pdf) contribution to the [Séminaire Poincaré](http://www.bourbaphy.fr) on [Quantum gravity](http://www.bourbaphy.fr/GraviteQuantique.pdf) at IHP
 * [An S-matrix approach to gravitational-wave physics](/files/rsta.2021.0181.pdf) published as [Phil.Trans. R. Soc. A380: 20210181](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0181)
 * [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
