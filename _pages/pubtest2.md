@@ -9,7 +9,7 @@ layout: single
 
 {% include base_path %}
 
-# Publications
+# Publications list of Pierre Vanhove 
 
 <div id="papers">
   <p>Loading publications from INSPIRE-HEP…</p>
@@ -35,12 +35,27 @@ layout: single
   font-size: 0.9em;
   color: #555;
 }
+.abstract {
+  display: none;
+  margin-top: 0.3em;
+  padding-left: 1em;
+  border-left: 2px solid #ccc;
+  font-size: 0.9em;
+  color: #333;
+}
+.toggle-abstract {
+  font-size: 0.85em;
+  color: #0066cc;
+  cursor: pointer;
+  margin-top: 0.2em;
+  display: inline-block;
+}
 </style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const author = "Pierre+Vanhove";  // Replace with your INSPIRE author name
-  const url = `https://inspirehep.net/api/literature?sort=mostrecent&size=100&q=author%3A${author}`;
+  const author = "P.Vanhove.1";  // Replace with your INSPIRE author name
+  const url = `https://inspirehep.net/api/literature?sort=mostrecent&size=1000&q=author%3A${author}`;
 
   fetch(url)
     .then(r => r.json())
@@ -53,18 +68,26 @@ document.addEventListener("DOMContentLoaded", function() {
       data.hits.hits.forEach(hit => {
         const meta = hit.metadata;
         const title = meta.titles?.[0]?.title || "(No title)";
-        const year = meta.publication_info?.[0]?.year || "In preparation";
-        const authors = meta.authors.map(a => a.full_name).join(", ");
+        const preprintDate = meta.preprint_date || meta.creation_date || "000";
+        const year = preprintDate.slice(0, 4);  // Extract only the year
+        const allAuthors = meta.authors.map(a => a.full_name);
+        const authors = allAuthors.length > 10 ? allAuthors.slice(0, 10).join(", ") + ", et al." : allAuthors.join(", ");
         const arxiv = meta.arxiv_eprints?.[0]?.value;
         const doi = meta.dois?.[0]?.value;
         const link = arxiv ? `https://arxiv.org/abs/${arxiv}` : (doi ? `https://doi.org/${doi}` : "#");
+        const abstract = meta.abstracts?.[0]?.value || "";
 
         const entry = `
           <div class="paper-entry">
             <a href="${link}" target="_blank"><strong>${title}</strong></a><br>
             <span class="paper-authors">${authors}</span>
+            ${abstract ? `
+              <div class="toggle-abstract">Show abstract ▼</div>
+              <div class="abstract">${abstract}</div>
+            ` : ""}
           </div>
         `;
+
         grouped[year] = grouped[year] || [];
         grouped[year].push(entry);
       });
@@ -78,6 +101,20 @@ document.addEventListener("DOMContentLoaded", function() {
         yearSection.innerHTML = `<h2>${year}</h2>` + grouped[year].join("\n");
         container.appendChild(yearSection);
       });
+
+      // Toggle abstract visibility
+      container.addEventListener("click", function(e) {
+        if (e.target.classList.contains("toggle-abstract")) {
+          const abs = e.target.nextElementSibling;
+          if (abs.style.display === "block") {
+            abs.style.display = "none";
+            e.target.textContent = "Show abstract ▼";
+          } else {
+            abs.style.display = "block";
+            e.target.textContent = "Hide abstract ▲";
+          }
+        }
+      });
     })
     .catch(err => {
       document.getElementById("papers").innerHTML =
@@ -86,3 +123,4 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
+
