@@ -23,3 +23,7 @@ main:
 
   - title: "Livres"
     url: /livres/
+
+  - title: "Feynman Integrals"
+    url: /feynmanintegrals
+

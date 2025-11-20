@@ -23,6 +23,7 @@ Current activities:
 
 * [Observables](https://observables.pages.math.cnrs.fr/) research projet, supported by the French ANR, on computing Observables in gauge and gravity from amplitude methods
 
+* [Feynman integrals](feynmanintegrals) The list of Feynman integrals I have determined analytically
 
 Research interests:
 =====
