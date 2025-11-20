@@ -25,7 +25,7 @@ Here is a list of the ones for which I have given an analytic expression. I refe
 
 ## Methods
 
-The methods I use are based on algebraic geometry seeing the Feynman integrals are relative periods of mixed Hodge structures
+The methods I use are based on algebraic geometry seeing the Feynman integrals as relative periods of mixed Hodge structures
 
 ### Motivic Period integrals 
 
