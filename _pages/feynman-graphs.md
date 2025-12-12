@@ -15,7 +15,7 @@ I use the framework of variation of mixed Hodge structures and the Feynman integ
 
 Here is a list of the ones for which I have given an analytic expression. I refer to the [Loopedia](https://loopedia.mpp.mpg.de) database that collects the various evaluations and links to the research papers
 
-+ Two-loop sunset [[Loopedia entry e111|e|:zzzz|z|](https://loopedia.mpp.mpg.de/?q=e111|e|:zzzz|z|)
++ Two-loop sunset [Loopedia entry e111|e|:zzzz|z|](https://loopedia.mpp.mpg.de/?q=e111|e|:zzzz|z|)
 ![sunset 2 loop](/assets/images/sunset-2L.png){:width="200px" .align-center}
 + Three-loop sunset  all equal mass case : [Loopedia entry e1111|e|:z1111|z|](https://loopedia.mpp.mpg.de/?q=e1111%7Ce%7C:z1111%7Cz%7C) 
  ![sunset 3 loops single mass](/assets/images/sunset-3L1m.png){:width="200px"  .align-center} 

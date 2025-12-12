@@ -10,7 +10,8 @@ toc_label: "Collaborators"
 
 
 ## Research Students
- 
+
+* 2026 : Amina Sadu (master student) 
 * 2021 - 2024 : [papers](https://arxiv.org/search/math?searchtype=author&query=Pichon-Pharabod%2C+E) [Eric Pichon-Pharabod](https://ericpipha.github.io) (phd student)
 * 2021 : Radu Moga (master student)
 * 2020: Rishabh Bhardwaj  (master student)
@@ -63,7 +64,8 @@ toc_label: "Collaborators"
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+lipstein) Arthur Lipstein
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+mei) Jiajie Mei
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+minasian) Ruben Minasian
-* [papers](http://inspirehep.net/search?ln=fr&ln=fr&p=a+Mougiakakos) Stavros Mougiakakos
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+Mougiakakos) Stavros Mougiakakos
+* [papers](http://inspirehep.net/search?ln=fr&p=a+vanhove+and+novichkov) Pavel Novichkov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+obers) Niels Obers
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+ochirov) Alexander Ochirov
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+peeters) Kasper Peeters
@@ -81,9 +83,9 @@ toc_label: "Collaborators"
 * [papers](http://inspirehep.net/search?ln=fr&p=a+petropoulos+and+szabo) Kálmán Szabo
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+p+vanhove+and+theisen) Stefan Theisen
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+tourkine) Piotr Tourkine
-* [papers](https://inspirehep.net/search?ln=fr&ln=fr&p=find+a+vanhove+and+valageas) Patrick Valageas
+* [papers](https://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+valageas) Patrick Valageas
 * [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+westerberg) Anders Westerberg
-* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang+yihong) Yihong Wang
+* [papers](http://inspirehep.net/search?ln=fr&p=find+a+vanhove+and+wang,+yihong) Yihong Wang
 
 ## Mathematics papers
  
