@@ -14,7 +14,6 @@ redirect_from:
 
 Current activities:
 ====
-* [Séminaires Itzykson : Colloquium mathématiques et physique](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/physique-math/seminaire-itzykson/) de la fondation Hadamard
 
 * [Séminaire Poincaré ou Bourbaphy](https://seminaire-poincare.pages.math.cnrs.fr)
 
