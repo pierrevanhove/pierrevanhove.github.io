@@ -19,7 +19,7 @@ Current activities:
 
 * [Prix Cosmos](http://prixcosmos.github.io/) du livre de vulgarisation scientifique
 
-* [Observables](https://observables.pages.math.cnrs.fr/) research projet, supported by the French ANR, on computing Observables in gauge and gravity from amplitude methods
+* [Observables](https://observables-amplitudes.github.io/) research projet, supported by the French ANR, on computing Observables in gauge and gravity from amplitude methods
 
 * [Feynman integrals](feynmanintegrals) The list of Feynman integrals I have determined analytically
 
