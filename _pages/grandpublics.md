@@ -11,7 +11,9 @@ toc_label: "Communication Scientifique"
 ## Conférences dans les lycées, musées, ...
 
 
-
+* Les motifs cachés de l'univers
+(Quand la géomètrie dévoile les secrets de l'Univers)
+   - 8 janvier 2026: Lycée Faidherbe, Lille
 * La symphonie de la gravité
    - 16 décembre 2023: Institut Henri Poincaré [pdf](/files/seminaire-poincare-16decembre2023.pdf) slides in english -- [vidéo](https://www.carmin.tv/en/collections/seminaire-poincare-xxiv-gravite-quantique/video/la-symphonie-de-la-gravite) en français
 * [Au bout de la corde ... les deux infinis](/files/dechiffreurs-douai.pdf)
@@ -80,3 +82,6 @@ toc_label: "Communication Scientifique"
   - [Paul Florensky, prêtre, savant, au temps des révolutions scientifiques et bolchévique](/files/florensky-11decembre2017.pdf)
   - [La cosmologie Aristotélicienne - Ptolémaïque - Dantesque de Florensky](/files/florensky-25mai2018.pdf), [Journée d’études Le point, le cercle et la sphère chez Dante Alighieri](http://dantesque.fr/archive/point-cercle-sphere-chez-dante-alighieri/) [vidéo](https://www.youtube.com/watch?v=i6q-uSr2iCA&t=74s)
 
+## Acticle de vulgarisation
+
+- [Des motifs pour la physique précision](https://larecherche.fr/physique-mathématiques/des-motifs-pour-la-physique-de-précision) La Recherche janvier-mars 2026
