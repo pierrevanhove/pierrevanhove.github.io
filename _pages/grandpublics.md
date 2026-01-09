@@ -10,7 +10,7 @@ toc_label: "Communication Scientifique"
 
 ## Conférences dans les lycées, musées, ...
 
-![géométrie et physique](/images/Geometrie-GW.png){:width="400px" .align-center}
+![Conférence Faidherbe](/images/Photographie-Faidherbe.jpeg){:width="400px" .align-center}
 
 * Les motifs cachés de l'univers
 (Quand la géométrie dévoile les secrets de l'Univers)
