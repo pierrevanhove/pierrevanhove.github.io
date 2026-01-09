@@ -12,8 +12,8 @@ toc_label: "Communication Scientifique"
 
 
 * Les motifs cachés de l'univers
-(Quand la géomètrie dévoile les secrets de l'Univers)
-   - 8 janvier 2026: Lycée Faidherbe, Lille
+(Quand la géométrie dévoile les secrets de l'Univers)
+   - 8 janvier 2026: Lycée Faidherbe, Lille [pdf](/files/motif-Faidherbe-janvier2026.pdf) sans les vidéos et les audios
 * La symphonie de la gravité
    - 16 décembre 2023: Institut Henri Poincaré [pdf](/files/seminaire-poincare-16decembre2023.pdf) slides in english -- [vidéo](https://www.carmin.tv/en/collections/seminaire-poincare-xxiv-gravite-quantique/video/la-symphonie-de-la-gravite) en français
 * [Au bout de la corde ... les deux infinis](/files/dechiffreurs-douai.pdf)
