@@ -35,7 +35,7 @@ contributions to the proceedings of the [Workshop on Continuum and Lattice Appro
 [proceeding contributions](https://inspirehep.net/literature/637878) written with I. Antoniadis on the topic of localisation of gravity in string theory
 
 
-## Lectures notes and Review articles 
+## Lectures notes and Review articles (reseach level)
 
 * [Methods for computing observables in  classical gravity](/files/lecture-Latam-Juillet-2025.pdf) notes for the lecture given at the [General relativity and Cosmology 2025](https://www.physicslatam.com/gr/2025) of the Latin American Advanced lectures on theoretical physics and mathematics
 * [Differential equations and Motives of Feynman integrals](/files/ictp-2024.pdf) notes for the lectures given at the ICTP [School on Number Theory and Physics](https://indico.ictp.it/event/10485/other-view?view=ictptimetable) 17 Jun 2024 --  21 Jun 2024 
@@ -49,6 +49,11 @@ Notes of Lectures given at various places in 2007 including at the Les Houches s
 Lectures notes on M-theory, loop computations in eleven dimensions, BPS protected amplitudes in string theory and Matrix models given in December 1999 at the iPhT of Saclay (France)
 * [Au bout de la corde... la théorie M](https://tel.archives-ouvertes.fr/tel-00001196)
 My PhD thesis dissertation in French defended on at the Ecole Polytechnique (France).
+
+## Notes de cours
+* Ecole polytechnique (Palaiseau, France)
+    - Petite classe de mécanique quantique [PHY 311](/files/pc-phy311.pdf) 
+    - Petite classe de relativité restreinte [PHY431](/files/pc-phy431.pdf)
 
 # Undergraduate period
 
