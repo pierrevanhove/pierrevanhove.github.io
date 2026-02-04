@@ -9,7 +9,7 @@ toc_label: "Publications"
 {% include base_path %}
 
  * My articles on [inSPIRE HEP](https://inspirehep.net/authors/984979?ui-citation-summary=true)
- * My articles on [arXiv](https://arxiv.org/search/?query=vanhove%2C+p&searchtype=author&source=header&order=-announced_date_first&size=50&abstracts=show&start=0)
+ * My articles on [arXiv](https://arxiv.org/a/vanhove_p_1.html)
  * My articles on [Google Scholar profile](https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ)
 
 # Rapport divers
