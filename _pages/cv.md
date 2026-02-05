@@ -13,7 +13,7 @@ toc_label: "Curriculum Vitae"
 
 ## Career
 
-* 2017 - now : [associate member](https://ms.hse.ru/en/associate_members) of  [International laboratory for Mirror Symmetry and Automorphic Forms](https://ms.hse.ru/en/) National Research University Higher School of Economics  Moscow, Russia ([русский](https://ms.hse.ru/associate_members/))
+* 2017 - 2022 : [associate member](https://ms.hse.ru/en/associate_members) of  [International laboratory for Mirror Symmetry and Automorphic Forms](https://ms.hse.ru/en/) National Research University Higher School of Economics  Moscow, Russia ([русский](https://ms.hse.ru/associate_members/))
 * 2008 - 2015 : Member of the [Institut des Hautes Études
 Scientifiques](http://www.ihes.fr/)
 * 2007: Habilitation à diriger les recherches from the University of Paris VI
