@@ -72,7 +72,7 @@ France
  
 * born on Septembre the 23rd, 1970 at Lille, but I grew up in Cuincy near Douai in the North of France.
 Married, two children.
-* Sisters: [Anne](http://out-dog.wix.com/avstt),  Aude 
+* Sisters: [Anne](https://out-dog.wixsite.com/avstt),  [Aude](https://fr.linkedin.com/in/aude-malet-vanhove-06434115)
 * Language: 
    * French: mother tongue.
    * English: fluent (read and written with proficiency).

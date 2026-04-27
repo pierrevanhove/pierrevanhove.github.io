@@ -6,34 +6,36 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
+
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Pierre Vanhove"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Pierre Vanhove"
-description              : &description "Theoretical physicist at IPhT CEA-Saclay working on scattering amplitudes, Feynman integrals, and the mathematics of quantum gravity."
-url                      : https://pierrevanhove.github.io
-baseurl                  : ""
+description              : &description "Pierre Vanhove website"
+url                      : https://pierrevanhove.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pierrevanhove/pierrevanhove.github.io"
-teaser                   :
-breadcrumbs              : false
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
-read_more                : "disabled"
-talkmap_link             : false
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               :
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
-    server               :
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            :
-    colorscheme          : "dark"
+    num_posts            : # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -46,9 +48,9 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   :
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -56,57 +58,58 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Open Graph / Social sharing
-og_image                 : "images/pv.png"
+# Social Sharing
 facebook:
   username               : "pierre.vanhove.754"
   app_id                 :
   publisher              :
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person
-  name                   : "Pierre Vanhove"
-  links:
-    - "https://github.com/pierrevanhove"
-    - "https://orcid.org/0000-0001-5115-4788"
-    - "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
-  provider               : "google-universal"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
-# Footer
+#footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pierrevanhove"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/pierre.vanhove.754"
+    -label: "Github"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/pierrevanhove"
+    -label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: "https://www.facebook.com/pierre.vanhove.754"
 
 # Site Author
 author:
   name             : "Pierre Vanhove"
   avatar           : "pv.png"
-  bio              : "Theoretical physicist working on scattering amplitudes, Feynman integrals, and the mathematics of quantum gravity."
-  location         : "Institut de Physique Théorique, CEA-Saclay"
-  employer         :
+  bio              : "Theoretical physicist" 
+  location         : "Institut de Physique Théorique"
+  employer         : 
   links:
     - label: "Inspire HEP"
       url: "https://inspirehep.net/authors/984979?ui-citation-summary=true"
     - label: "arXiv"
-      url: "https://arxiv.org/a/vanhove_p_1.html"
+      url: "https://arxiv.org/search/?query=vanhove%2C+p&searchtype=author&source=header&order=-announced_date_first&size=50&abstracts=show&start=0"
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
     - label: "ORCID"
       url: "https://orcid.org/0000-0001-5115-4788"
     - label: "zbMath"
-      url: "https://zbmath.org/authors/?q=ai%3Avanhone.pierre"
+      url: "https://zbmath.org/authors/?q=ai%3Avanhove.pierre"
+    - label: "Facebook"
+      url: "https://facebook.com/pierre.vanhove.754"
     - label: "GitHub"
       url: "https://github.com/pierrevanhove"
-    - label: "YouTube"
+    - label: "Youtube"
       url: "https://www.youtube.com/playlist?list=PL_yIFPZJJb4o-gLw6nkL2XH26NxbZKCoh"
     - label: "Wikipedia"
       url: "https://fr.wikipedia.org/wiki/Pierre_Vanhove"
@@ -180,6 +183,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+      #  talks:
+      #output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,6 +261,15 @@ defaults:
       author_profile: true
       share: true
       comments: false
+  # _publictalks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+      comments: false
   # _books
   - scope:
       path: ""
@@ -266,15 +281,20 @@ defaults:
       comments: false
 
 
+
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Europe/Paris
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -287,8 +307,8 @@ plugins:
   - jekyll-include-cache
 
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin  : "air"   # options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+ #minimal_mistakes_skin    : "dark" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -299,15 +319,36 @@ whitelist:
 
 
 # Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

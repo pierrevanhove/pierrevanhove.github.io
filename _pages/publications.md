@@ -17,7 +17,7 @@ toc_label: "Publications"
 * 12/07/2023 : [Chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
 * 2009 : [Rapport sur la sûreté du Large Hadron Collider](/files/LHCsecurityASNfinal.pdf) commandé par l'Autorité de Sûreté Nucléaire
 
-# Articles that are not accesible online 
+# Articles that are not accessible online 
 
 ## Conference proceedings
 
@@ -34,7 +34,7 @@ contributions to the proceedings of the [Workshop on Continuum and Lattice Appro
 [proceeding contributions](https://inspirehep.net/literature/637878) written with I. Antoniadis on the topic of localisation of gravity in string theory
 
 
-## Lectures notes and Review articles (reseach level)
+## Lectures notes and Review articles (research level)
 
 * [Methods for computing observables in  classical gravity](/files/lecture-Latam-Juillet-2025.pdf) notes for the lecture given at the [General relativity and Cosmology 2025](https://www.physicslatam.com/gr/2025) of the Latin American Advanced lectures on theoretical physics and mathematics
 * [Differential equations and Motives of Feynman integrals](/files/ictp-2024.pdf) notes for the lectures given at the ICTP [School on Number Theory and Physics](https://indico.ictp.it/event/10485/other-view?view=ictptimetable) 17 Jun 2024 --  21 Jun 2024 
