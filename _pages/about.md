@@ -18,6 +18,8 @@ I am a theoretical physicist at the [Institut de Physique Théorique](https://ww
 
 ## Current activities
 
+* [Elected member](https://www.cnrs.fr/comitenational/sections/section.php?sec=05) of the CoNRS [Section 05 : Physique théorique : méthodes, modèles et applications](https://www.lpthe.jussieu.fr/section05/fr/)
+
 * [Séminaire Poincaré (Bourbaphy)](https://seminaire-poincare.pages.math.cnrs.fr) — scientific committee member
 
 * [Prix Cosmos](http://prixcosmos.github.io/) — popular science book prize connecting high-school students with authors
