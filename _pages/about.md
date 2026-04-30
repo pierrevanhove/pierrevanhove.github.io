@@ -4,15 +4,18 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
+toc_sticky: true
+toc_label: ""
 ---
 
 {% include base_path %}
 
 I am a theoretical physicist at the [Institut de Physique Théorique](https://www.ipht.fr/) (IPhT), CEA-Saclay. My research sits at the intersection of string theory, quantum field theory, and modern mathematics — with a particular focus on computing scattering amplitudes and Feynman integrals using tools from algebraic geometry, number theory, and the theory of D-modules. I am especially interested in how the geometry of Feynman integrals, viewed as relative periods of mixed Hodge structures, connects to mirror symmetry, automorphic forms, and motives. A parallel line of work concerns the application of amplitude methods to classical gravity and gravitational-wave physics.
 
----
+<!-- --- -->
 
-![String theory visualization](/assets/images/string.gif){: .align-center alt="String theory visualization"}
+<!--![String theory visualization](/assets/images/string.gif){: .align-center alt="String theory visualization"}-->
 
 ---
 
