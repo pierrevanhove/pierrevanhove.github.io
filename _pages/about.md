@@ -17,6 +17,10 @@ I am a theoretical physicist at the [Institut de Physique Théorique](https://ww
 
 <!--![String theory visualization](/assets/images/string.gif){: .align-center alt="String theory visualization"}-->
 
+> *Я — физик-теоретик. По-настоящему меня интересуют только неразгаданные явления. В этом и состоит моя работа.*
+> — Л. Д. Ландау
+
+
 ---
 
 ## Current activities
@@ -39,6 +43,3 @@ My work is devoted to understanding gravity through string theory, quantum field
 - **Automorphic forms in string theory** — emergence of automorphic forms in the low-energy expansion of string amplitudes, with M. B. Green, S. D. Miller, and J. Russo ([AMS account](https://mathvoices.ams.org/featurecolumn/2024/11/01/strung-out-on-automorphic-forms/))
 - **Scattering amplitudes and gravitational waves** — using amplitude techniques to compute post-Minkowskian observables and quantum corrections to classical gravity ([quantum bending of light](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.114.061301))
 - **Gauge–gravity relations** — unexpected simplifications connecting gravity amplitudes to gauge theory
-
-> *Я — физик-теоретик. По-настоящему меня интересуют только неразгаданные явления. В этом и состоит моя работа.*
-> — Л. Д. Ландау
