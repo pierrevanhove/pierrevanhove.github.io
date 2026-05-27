@@ -46,7 +46,8 @@ Here are some lecture notes explaining the approach
 
 + [Differential equations and Motives of Feynman integrals](/files/ictp-2024.pdf) notes for the lectures given at the ICTP [School on Number Theory and Physics](https://indico.ictp.it/event/10485/other-view?view=ictptimetable) 17 Jun 2024 --  21 Jun 2024 
 + [Feynman integrals, toric geometry and mirror symmetry](https://arxiv.org/abs/1807.11466) published in [Elliptic Integrals, Elliptic Functions and Modular Forms in Quantum Field Theory](https://link.springer.com/book/10.1007/978-3-030-04480-0)
-+ [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](/files/proceeding-pisa-2024-Vanhove.pdf)  proceeding contribution of the conference  [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy
++ [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](https://arxiv.org/abs/2604.09129)  proceeding contribution of the conference  [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy.  Published as [Contemporary Mathematics
+Volume 842, 2026, pp. 261 - 280](https://pubs.ams.org/ebooks/conm/842)
 + [Differential Equations for Feynman Integrals](/files/issac-vanhove.pdf) published as  [ISSAC '21: Proceedings of the 2021 on International Symposium on Symbolic and Algebraic Computation](https://dl.acm.org/doi/10.1145/3452143.3465512)
 + [The physics and the mixed Hodge structure of Feynman integrals](https://arxiv.org/abs/1401.6438) published as [Proc.Symp.Pure Math. 88 (2014) 161](https://www.ams.org/books/pspum/088/)
 
