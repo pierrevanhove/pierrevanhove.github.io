@@ -16,13 +16,13 @@ I use the framework of variation of mixed Hodge structures and the Feynman integ
 Here is a list of the ones for which I have given an analytic expression. I refer to the [Loopedia](https://loopedia.mpp.mpg.de) database that collects the various evaluations and links to the research papers
 
 + Two-loop sunset [Loopedia entry e111|e|:zzzz|z|](https://loopedia.mpp.mpg.de/?q=e111|e|:zzzz|z|)
-![sunset 2 loop](/assets/images/sunset-2L.png){:width="200px" .align-center}
+![sunset 2 loop](/assets/images/sunset-2L-nobg.png){:width="200px" .align-center}
 + Three-loop sunset  all equal mass case : [Loopedia entry e1111|e|:z1111|z|](https://loopedia.mpp.mpg.de/?q=e1111%7Ce%7C:z1111%7Cz%7C) 
- ![sunset 3 loops single mass](/assets/images/sunset-3L1m.png){:width="200px"  .align-center} 
+ ![sunset 3 loops single mass](/assets/images/sunset-3L1m-nobg.png){:width="200px"  .align-center} 
 + The fat cat  all equal mass case : [Loopedia entry e1112|2|e|:z1111|1|z|](https://loopedia.mpp.mpg.de/?q=e1112%7C2%7Ce%7C:z1111%7C1%7Cz%7C)
-![Fat cat 3 loops single mass](/assets/images/fatcat-3L1m.png){:width="200px"  .align-center} 
+![Fat cat 3 loops single mass](/assets/images/fatcat-3L1m-nobg.png){:width="200px"  .align-center} 
 + The cat's eye  all equal mass case : [Loopedia entry e12|223|3|e|:z11|111|1|z|](https://loopedia.mpp.mpg.de/?q=e12|223|3|e|:z11|111|1|z|)
-![Cat's eys 3 loops single mass](/assets/images/catseys-3L1m.png){:width="200px"  .align-center} 
+![Cat's eys 3 loops single mass](/assets/images/catseys-3L1m-nobg.png){:width="200px"  .align-center} 
 
 ## Methods
 
