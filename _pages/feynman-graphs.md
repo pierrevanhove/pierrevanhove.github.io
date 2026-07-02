@@ -58,3 +58,11 @@ General audience articles by me and others on the above results
 + [Putting a period on mathematical physics](https://mathvoices.ams.org/featurecolumn/2023/07/01/period-math-physics/) an article by Ursula Whitcher for the AMS Mathematical Reviews with an account of my calculation of the sunset Feynman integral with Spencer Bloch
 
 + [Des algorithmes efficaces calculent les amplitudes de diffusion](https://www.cea.fr/drf/Pages/Actualites/En-direct-des-labos/2023/des-algorithmes-efficaces-calculent-les-amplitudes-de-diffusion.aspx) [english version](https://www.ipht.fr/en/Phocea/Vie_des_labos/News/index.php?id_news=1260)
+
+## Phenomenology
+
+In a series of papers we have use the determinations of the elliptic master integrals appearing at N$^3$LO order in chiral perturbation to compute the haddronic vacuum polarisation relevant for the $g-2$ of the muon
+
+ + [Hadronic vacuum polarization to three loops in chiral perturbation theory](https://arxiv.org/abs/2510.12885)
+
+ + [The elliptic three-loop integrals of hadronic vacuum polarization in chiral perturbation theory](https://arxiv.org/abs/2603.15252)
