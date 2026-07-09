@@ -25,6 +25,8 @@ I am a theoretical physicist at the [Institut de Physique Théorique](https://ww
 
 ## Current activities
 
+* 2026 : [Recent Progress in Amplitudes](https://indico.global/event/18501/overview), ShanghaiTech, Shanghai, Chine
+
 * [Elected member](https://www.cnrs.fr/comitenational/sections/section.php?sec=05) of the CoNRS [Section 05 : Physique théorique : méthodes, modèles et applications](https://www.lpthe.jussieu.fr/section05/fr/)
 
 * [Séminaire Poincaré (Bourbaphy)](https://seminaire-poincare.pages.math.cnrs.fr) — scientific committee member
