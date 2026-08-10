@@ -1,15 +1,13 @@
 ---
-author_profile: false
-permalink: /pubtest.html
-toc: false
-toc_sticky: true
-toc_label: "publications"
+author_profile: true
+permalink: /publications_list.html
 layout: single
 ---
 
 {% include base_path %}
 
-# Publications list of Pierre Vanhove 
+# Publications list of Pierre Vanhove from INSPIRE-HEP
+
 
 <div id="papers">
   <p>Loading publications from INSPIRE-HEP…</p>
@@ -80,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const entry = `
           <div class="paper-entry">
             <a href="${link}" target="_blank"><strong>${title}</strong></a><br>
-            <span class="paper-authors">${authors}</span>
+            <span class="paper-authors">${authors}</span><br>
             ${abstract ? `
               <div class="toggle-abstract">Show abstract ▼</div>
               <div class="abstract">${abstract}</div>

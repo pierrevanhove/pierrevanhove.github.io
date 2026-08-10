@@ -1,8 +1,6 @@
 ---
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 toc: true
 toc_sticky: true
 toc_label: "Curriculum Vitae"

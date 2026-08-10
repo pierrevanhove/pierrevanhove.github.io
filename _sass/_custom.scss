@@ -1,0 +1,24 @@
+/* 1. Constrain the site title/name so it never overlaps the menu */
+.greedy-nav .site-title,
+.masthead__menu-item--lg {
+  flex: 0 0 auto !important;     /* Forces the name to only take up the space of its text */
+  width: auto !important;        /* Removes any hardcoded wide widths */
+  margin-right: 1rem !important; /* Adds a strict, small margin to the right */
+  padding-right: 0 !important;
+  z-index: 10;
+}
+
+/* 2. Keep the navigation links tight but safely away from the name */
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex: 1 1 auto;                /* Allows the links container to fill the remaining space */
+  justify-content: flex-start;   /* Aligns links right next to the title margin */
+  padding-left: 0 !important;
+}
+
+/* 3. Aggressively reduce space between individual links */
+.masthead__menu .masthead__menu-item a {
+  padding-left: 0.5rem !important;  /* Brings the links much closer together */
+  padding-right: 0.5rem !important; 
+  z-index: 20;
+}

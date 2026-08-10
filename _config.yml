@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Pierre Vanhove"
@@ -15,7 +14,6 @@ description              : &description "Theoretical physicist at IPhT CEA-Sacla
 url                      : https://pierrevanhove.github.io
 baseurl                  : ""
 repository               : "pierrevanhove/pierrevanhove.github.io"
-teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : false
@@ -48,13 +46,8 @@ staticman:
       options:
         format           : "iso8601"
 atom_feed:
-  path                   :
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 # Open Graph / Social sharing
 og_image                 : "images/pv.png"
@@ -82,6 +75,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pierrevanhove"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Ru3MQ_gAAAAJ"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/pierre.vanhove.754"
@@ -92,7 +88,6 @@ author:
   avatar           : "pv.png"
   bio              : "Theoretical physicist working on scattering amplitudes, Feynman integrals, and the mathematics of quantum gravity."
   location         : "Institut de Physique Théorique, CEA-Saclay"
-  employer         :
   links:
     - label: "Inspire HEP"
       url: "https://inspirehep.net/authors/984979?ui-citation-summary=true"
@@ -103,14 +98,13 @@ author:
     - label: "ORCID"
       url: "https://orcid.org/0000-0001-5115-4788"
     - label: "zbMath"
-      url: "https://zbmath.org/authors/?q=ai%3Avanhone.pierre"
+      url: "https://zbmath.org/authors/?q=ai%3Avanhove.pierre"
     - label: "GitHub"
       url: "https://github.com/pierrevanhove"
     - label: "YouTube"
       url: "https://www.youtube.com/playlist?list=PL_yIFPZJJb4o-gLw6nkL2XH26NxbZKCoh"
     - label: "Wikipedia"
       url: "https://fr.wikipedia.org/wiki/Pierre_Vanhove"
-
 
 # Reading Files
 include:
@@ -148,14 +142,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -168,7 +160,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
   teaching:
@@ -180,7 +171,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -265,17 +255,14 @@ defaults:
       share: true
       comments: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Europe/Paris
-
 
 # Plugins
 plugins:
@@ -297,7 +284,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # Archives
 category_archive:
   type: liquid
@@ -305,7 +291,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
 
 # HTML Compression
 compress_html:
