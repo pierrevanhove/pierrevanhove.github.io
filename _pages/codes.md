@@ -199,7 +199,7 @@ else:
 
 ## Symanzik Polynomials for Feynman Graphs
 
-The first and second Symanzik polynomials of Feynman graphs can be computed by calculating the discriminant, as explained in the paper:
+The first and second Symanzik polynomials of Feynman graphs can be computed by calculating determinants, as explained in the paper:
 **[On Motives Associated to Graph Polynomials](https://arxiv.org/abs/math/0510011)** by Spencer Bloch, Hélène Esnault, and Dirk Kreimer.
 
 ### Mathematica Implementation
