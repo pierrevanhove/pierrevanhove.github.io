@@ -14,7 +14,7 @@ description              : &description "Theoretical physicist at IPhT CEA-Sacla
 url                      : https://pierrevanhove.github.io
 baseurl                  : ""
 repository               : "pierrevanhove/pierrevanhove.github.io"
-breadcrumbs              : false
+breadcrumbs              : true
 words_per_minute         : 160
 future                   : false
 read_more                : "disabled"
