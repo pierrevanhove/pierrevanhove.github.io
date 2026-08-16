@@ -1,4 +1,5 @@
 ---
+title: "Interventions dans les media"
 permalink: /media/index.html
 author_profile: true
 toc: true
@@ -8,6 +9,7 @@ toc_label: "Media"
 
 {% include base_path %}
 
+Bienvenue sur ma page dédiée aux supports multimédias, présentations et ressources complémentaires à mes travaux de recherche.
 
 # Emissions de radio
 

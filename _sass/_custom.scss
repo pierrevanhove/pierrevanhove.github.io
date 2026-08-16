@@ -25,7 +25,8 @@
 
 /* 4. Fix greedy-nav width measurement so the hamburger toggle can appear */
 .greedy-nav .visible-links {
-  flex: 0 1 auto !important;   /* let it shrink instead of force-growing, so overflow is detected */
+  flex: none !important;       /* don't grow AND don't shrink — let it overflow naturally */
+  white-space: nowrap !important;
 }
 
 /* 5. Force the breadcrumb trail to be visible */

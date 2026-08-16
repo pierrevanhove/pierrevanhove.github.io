@@ -1,6 +1,6 @@
 ---
+title: "Qu'est-ce que la gravité?"
 layout: archive
-#title: "Qu'est-ce que la gravité?"
 permalink: /livres/questcequelagravite.html
 author_profile: true
 ---

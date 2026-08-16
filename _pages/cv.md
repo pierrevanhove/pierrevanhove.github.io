@@ -1,4 +1,5 @@
 ---
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 toc: true
@@ -7,6 +8,8 @@ toc_label: "Curriculum Vitae"
 ---
 
 {% include base_path %}
+
+This page outlines my professional appointments, administrative duties, research funding, distinctions, and some personal information.
 
 
 ## Career
@@ -25,19 +28,16 @@ Scientifiques](http://www.ihes.fr/)
 France
 * 1986 - 1991: [Lycée Albert Châtelet](http://www.chatelet-douai.fr/), Douai, France
   
-
-## Distinctions
-
-* 2024: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
-* 2021 : Directeur de recherche CEA 
-* 2020 - 2021 : Scientific Associate CERN theory division
-* [Scientific associate at Niels Bohr institute Copenhague](https://nbia.nbi.ku.dk/members/adjuncts-and-associates/)
-* 2015: [French Government Oversea Fellow](https://www.chu.cam.ac.uk/about/master-fellows/fellowship-categories/french-government-fellowships/) of [Churchill College](https://www.chu.cam.ac.uk/), Cambridge, UK
-* 2015: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
-* 2013: [Grand prix Mergier-Bourdeix](https://www.academie-sciences.fr/archivage_site/activite/prix/gp_mergier.htm) de l'Académie des Sciences (French Academy of Sciences prize)
-* 2009: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
-* 1998: [Thesis price](http://www.ecoledoctorale.polytechnique.fr/etudes_doctorales/theses/prix/Prix1998.php) from the École polytechnique (France).
-
+## Administration 
+* 2026 - : Member of the editorial board of Advances in Theoretical and Mathematical Physics
+* 2023 : Rédaction du [chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
+* 2013- : Member of the editorial board of JHEP
+* 2012 - 2014: Member of the editorial board of European Journal of Physics C section  Gravitation, Astroparticle Physics and Cosmology, General Aspects of Quantum Field Theories and Alternatives
+* 2008-2012: CNRS national comitee section 02 theoretical physics
+* 2008: Member of the LHC safety commitee for the Autorité de Sûreté Nucléaire
+* 2005 -- 2009: Coordinator of the iPhT sub-node for the European Network Forces Universes
+* 2005 -- now: Evaluator for the European Science Foundation
+* 1998 -- now: referee for various scientific journals:Nuclear Physics B, Physics Letter B, Communication in Mathematical Physics, JHEP, Classical and Quantum Gravity,Physical Review D, Physical Review Letters Letters in Mathematical Physics
 
 ## Grants
  
@@ -54,17 +54,21 @@ France
 * 2004-2008: RTN grant Constituents, Fundamental Forces and Symmetries of the Universe
 * 2004-2008: RTN grant The Quest For Unification: Theory Confronts Experiment
 
+## Distinctions
 
-## Administration 
-* 2026 - : Member of the editorial board of Advances in Theoretical and Mathematical Physics
-* 2023 : Rédaction du [chapitre  &lsaquo;&lsaquo; Lois fondamentales de l’univers &rsaquo;&rsaquo;](https://lapth.cnrs.fr/ppf/doku.php?id=allcontributions) du rapport de [Prospective scientifique de l'Institut de physique](https://www.inp.cnrs.fr/fr/prospective-scientifique)
-* 2013- : Member of the editorial board of JHEP
-* 2012 - 2014: Member of the editorial board of European Journal of Physics C section  Gravitation, Astroparticle Physics and Cosmology, General Aspects of Quantum Field Theories and Alternatives
-* 2008-2012: CNRS national comitee section 02 theoretical physics
-* 2008: Member of the LHC safety commitee for the Autorité de Sûreté Nucléaire
-* 2005 -- 2009: Coordinator of the iPhT sub-node for the European Network Forces Universes
-* 2005 -- now: Evaluator for the European Science Foundation
-* 1998 -- now: referee for various scientific journals:Nuclear Physics B, Physics Letter B, Communication in Mathematical Physics, JHEP, Classical and Quantum Gravity,Physical Review D, Physical Review Letters Letters in Mathematical Physics
+* 2024: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
+* 2021 : Directeur de recherche CEA 
+* 2020 - 2021 : Scientific Associate CERN theory division
+* [Scientific associate at Niels Bohr institute Copenhague](https://nbia.nbi.ku.dk/members/adjuncts-and-associates/)
+* 2015: [French Government Oversea Fellow](https://www.chu.cam.ac.uk/about/master-fellows/fellowship-categories/french-government-fellowships/) of [Churchill College](https://www.chu.cam.ac.uk/), Cambridge, UK
+* 2015: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
+* 2013: [Grand prix Mergier-Bourdeix](https://www.academie-sciences.fr/archivage_site/activite/prix/gp_mergier.htm) de l'Académie des Sciences (French Academy of Sciences prize)
+* 2009: Honorable Mention in the  Awards for Essays in Gravitation by the Gravity Research Foundation
+* 1998: [Thesis price](http://www.ecoledoctorale.polytechnique.fr/etudes_doctorales/theses/prix/Prix1998.php) from the École polytechnique (France).
+
+
+
+
 
 ## Personal informations
  

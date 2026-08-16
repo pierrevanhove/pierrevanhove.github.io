@@ -1,6 +1,6 @@
 ---
+title: "forme et origine de l'univers"
 layout: archive
-#title: "forme et origine de l'univers"
 permalink: /livres/formeunivers.html
 author_profile: true
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Feynman Integrals"
 permalink: /feynmanintegrals/
 author_profile: true
 toc: true

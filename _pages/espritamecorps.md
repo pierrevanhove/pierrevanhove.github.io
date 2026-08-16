@@ -1,4 +1,5 @@
 ---
+title: "L'esprit, l'âme et le corps"
 layout: archive
 #title: "livres"
 permalink: /livres/espritamecorps.html

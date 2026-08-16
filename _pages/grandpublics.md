@@ -1,5 +1,5 @@
 ---
-title: "Communication Scientifique"
+title: "Communications Scientifiques"
 permalink: /grandpublic/
 author_profile: true
 toc: true

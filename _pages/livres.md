@@ -1,5 +1,6 @@
 ---
-permalink: /livres/index.html
+title: "Livres"
+permalink: /livres/
 author_profile: true
 toc: true
 toc_sticky: true
@@ -8,7 +9,7 @@ toc_label: "Menu"
 
 {% include base_path %}
 
-
+Cette page recense les livres dont je suis auteur ou coauteur.
 
 ## Livres tout public en Français
  

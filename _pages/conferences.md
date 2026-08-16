@@ -1,4 +1,5 @@
 ---
+title: "Scientific events"
 permalink: /conferences/
 author_profile: true
 toc: true
@@ -9,6 +10,8 @@ toc_label: "Conferences"
 {% include base_path %}
 
 ![cosinus](/assets/images/cosinus.gif){: .align-center}
+
+On this page you can find the scientific events (conferences and research seminars) that I have organised.
 
 
 ## International conferences and Schools

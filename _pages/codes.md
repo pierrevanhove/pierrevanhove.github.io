@@ -1,4 +1,5 @@
 ---
+title: "Codes"
 permalink: /codes/
 author_profile: true
 toc: true
@@ -7,6 +8,8 @@ toc_label: "Codes"
 ---
 
 {% include base_path %}
+
+This page collects various scripts or codes that I find useful.
 
 # Shell Scripts
 

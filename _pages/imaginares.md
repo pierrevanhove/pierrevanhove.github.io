@@ -1,4 +1,5 @@
 ---
+title: "Les Imaginaires en géométrie"
 layout: archive
 #title: "imaginaires"
 permalink: /livres/imaginaires.html

@@ -1,4 +1,5 @@
 ---
+title: "Publication list"
 author_profile: true
 permalink: /publications_list.html
 layout: single
