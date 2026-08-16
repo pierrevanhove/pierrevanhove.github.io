@@ -22,3 +22,17 @@
   padding-right: 0.5rem !important; 
   z-index: 20;
 }
+
+/* 4. Fix greedy-nav width measurement so the hamburger toggle can appear */
+.greedy-nav .visible-links {
+  flex: 0 1 auto !important;   /* let it shrink instead of force-growing, so overflow is detected */
+}
+
+/* 5. Force the breadcrumb trail to be visible */
+.breadcrumbs {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  height: auto !important;
+  overflow: visible !important;
+}
