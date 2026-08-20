@@ -19,7 +19,6 @@ Bienvenue sur ma page dédiée aux supports multimédias, présentations et ress
 
 ## [france culture](https://www.franceculture.fr/personne-pierre-vanhove)
 
-
 * 10 septembre 2019: intervention sur France Culture dans l'émission La méthode scientifique [Supergravité, une théorie qui pèse lourd](https://www.franceculture.fr/emissions/la-methode-scientifique/supergravite-une-theorie-qui-pese-lourd)
 * 14 octobre 2017: intervention du France Culture dans l'émission de La conversation scientifique [La révolution bolchevique et les révolutions scientifiques du début du XXe siècle](https://www.franceculture.fr/emissions/la-conversation-scientifique/la-revolution-bolchevique-et-les-revolutions-scientifiques-du-debut-du-xxe-siecle)
 * 13 décembre 2016: intervention sur France Culture dans l'émission La méthode scientifique [La physique peut-elle tout expliquer ?](https://www.franceculture.fr/emissions/la-methode-scientifique/la-physique-peut-elle-tout-expliquer)
@@ -29,6 +28,7 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 
 # Magazines de vulgarisation scientifique
 
+* 2026 : [La théorie des cordes émerge-t-elle naturellement à partir de principes généraux ?](https://www.pourlascience.fr/sd/physique-theorique/la-theorie-des-cordes-emerge-t-elle-naturellement-a-partir-de-principes-generaux-29442.php) Pour la Science 
 * 2025 : [POURRA-T-ON PASSER PAR UN TROU DE VER ?](https://www.science-et-vie.com/article-magazine/pourra-t-on-passer-par-un-trou-de-ver) Science & Vie Hors-Séries - Le numéro n°318 du 5 février 2025
 * 2022 : [Est-ce que les particules nommées "gravitons" existent ?](https://www.sciencesetavenir.fr/fondamental/particules/est-ce-que-les-particules-nommees-gravitons-existent_162271)
 * 2020 :  Троицкий вариант — Наука [Охотники на спецфункции, или «Сириус» накануне вируса](https://trv-science.ru/2020/04/07/sirius/)
@@ -42,7 +42,6 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 
 # Blog
 
-
 * The Reference Frame: [Two roads from N=8 SUGRA to string theory](http://motls.blogspot.com/2008/07/two-roads-from-n8-sugra-to-string.html)
 * The Reference Frame: [Finiteness of supergravity theories](http://motls.blogspot.com/2006/10/finiteness-of-supergravity-theories.html)
 * [Not Even Wrong: Again, Is N=8 Supergravity Finite?](http://www.math.columbia.edu/~woit/wordpress/?p=485)
@@ -50,7 +49,6 @@ Quelques photographies : [Photo 1](http://www.flickr.com/photos/feuilllu/9689638
 * Backreaction : [The underappreciated value of boring truths](http://backreaction.blogspot.fr/2014/11/the-underappreciated-value-of-boring.html)
 
 # My work mentionned in the press
-
 
 * 2019 : [Breakthrough Prize : des millions de dollars pour la supergravité, théorie quantique de la gravitation](https://www.futura-sciences.com/sciences/actualites/physique-breakthrough-prize-millions-dollars-supergravite-theorie-quantique-gravitation-19338/)
 * 2018 : RIA Novosti : [Симметрия, лунатики, монстры: как строят теорию квантового мира](https://ria.ru/science/20180225/1515163705.html)

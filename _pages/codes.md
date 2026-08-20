@@ -50,12 +50,20 @@ For printing documents with multiple pages on a single sheet, I use the followin
 
 ### 2 Pages on 1 Sheet
 ```bash
-alias pdf1x2="pdfjam --nup 2x1 --landscape --paper a4"
+pdf1x2() {
+    input_file="$1"
+    output_file="${input_file%.*}-1x2.pdf"
+    ~/local/bin/pdfjam --nup 2x1 --landscape --paper a4 --outfile "$output_file" "$input_file"
+}
 ```
 
 ### 4 Pages on 1 Sheet
 ```bash
-alias pdf2x2="pdfjam --nup 2x2 --landscape --paper a4"
+pdf2x2() {
+    input_file="$1"
+    output_file="${input_file%.*}-2x2.pdf"
+    ~/local/bin/pdfjam --nup 2x2 --landscape --paper a4 --outfile "$output_file" "$input_file"
+}
 ```
 
 > **Note:** These aliases use [pdfjam](https://github.com/pdfjam/pdfjam), a convenient tool for PDF manipulation.
