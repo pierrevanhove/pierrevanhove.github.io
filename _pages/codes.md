@@ -206,14 +206,14 @@ else:
 ```
 ---
 
-# Mathematica
 
-## Symanzik Polynomials for Feynman Graphs
+# Symanzik Polynomials for Feynman Graphs
 
 The first and second Symanzik polynomials of Feynman graphs can be computed by calculating determinants, as explained in the paper:
 **[On Motives Associated to Graph Polynomials](https://arxiv.org/abs/math/0510011)** by Spencer Bloch, Hélène Esnault, and Dirk Kreimer.
 
-### Mathematica Implementation
+## Mathematica Implementation
+
 Here’s how I implemented it in *Mathematica*:
 
 #### Function to Compute Symanzik Polynomials
@@ -229,6 +229,8 @@ UF[listprop_, listloop_] :=
   } / 2^(Length[listloop] + 1)
 ]
 ```
+
+This function needs the `HessianMatrix` and `HomogeneizePoly` routines
 
 #### Hessian Matrix Function
 To use the `HessianMatrix` function from the [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/resources/HessianMatrix):
@@ -251,4 +253,72 @@ HomogenizePoly[poly_, vars_, hvar_] :=
   deg = Max[Total /@ CoefficientRules[poly, vars][[All, 1]]];
   Expand[hvar^deg*(poly /. Thread[vars -> vars/hvar])]
 ]
+```
+
+## Python implementation
+
+The *python* implementation is
+
+#### Hessian Matrix
+```python
+def hessian_matrix(poly, listvars):
+    """Build the Hessian matrix of `poly` with respect to `listvars`."""
+    n = len(listvars)
+    return matrix(SR, n, n,
+                  lambda i, j: diff(poly, listvars[i], listvars[j]))
+```
+
+#### Homogenize polynomial
+```python
+def homogenize_poly(poly, listvars, new_var):
+    """
+    Homogenize `poly` with respect to `listvars` by introducing `new_var`.
+    Works for any number of variables (including just one).
+    """
+    t = SR.var('t_homog_dummy')
+    subs_dict = {v: t * v for v in listvars}
+    poly_t = poly.subs(subs_dict).expand()
+
+    d = poly_t.degree(t)  # total degree of poly in listvars
+
+    result = SR(0)
+    for k in range(d + 1):
+        coeff_k = poly_t.coefficient(t, k)   # degree-k homogeneous part
+        result += coeff_k * new_var**(d - k)
+
+    return result.expand()
+```
+
+These functions `HessianMatrix` and `HomogeneizePoly` are called by `UF`
+
+#### Compute the Symanzik polynomials
+```python
+def UF(listprop, listloop):
+    """
+    Calculates the U and F Symanzik polynomials for a given set of propagators and loop momenta.
+    """
+    n_props = len(listprop)
+
+    # Create Feynman parameters x1, x2, ..., xN
+    x = [var(f'x{i+1}') for i in range(n_props)]
+
+    # Qtmp = Sum[x[itmp] listprop[[itmp]], {itmp, Length[listprop]}]
+    Qtmp = sum(x[i] * listprop[i] for i in range(n_props)).expand()
+
+    # Utmp = Det[HessianMatrix[Qtmp, listloop]] * 2
+    H_U = hessian_matrix(Qtmp, listloop)
+    Utmp = H_U.det() * 2
+
+    # Qhomtmp = HomogenizePoly[Qtmp, listloop, l0]
+    l0 = var('l0')
+    Qhomtmp = homogenize_poly(Qtmp, listloop, l0)
+
+    # Ftmp = Det[HessianMatrix[Qhomtmp, Join[{l0}, listloop]]]
+    H_F = hessian_matrix(Qhomtmp, [l0] + listloop)
+    Ftmp = H_F.det()
+
+    # Divide both polynomials by 2^(Length[listloop] + 1)
+    factor = 2**(len(listloop) + 1)
+
+    return [(Utmp / factor).expand(), (Ftmp / factor).expand()]
 ```
